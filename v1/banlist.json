@@ -1,0 +1,8160 @@
+{
+  "attribution": {
+    "author": "SeraphinFosfato",
+    "url": "https://seraphinfosfato.github.io/Banlist-dist/"
+  },
+  "entries": [
+    {
+      "id": 102380,
+      "limit": 3,
+      "name": "Lava Golem",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 342673,
+      "limit": 3,
+      "name": "Dark Magician the Magician of Black Magic",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 440556,
+      "limit": 3,
+      "name": "Bahamut Shark",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 572850,
+      "limit": 3,
+      "name": "Tearlaments Scheiren",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 581014,
+      "limit": 3,
+      "name": "Daigusto Emeral",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 613496,
+      "limit": 3,
+      "name": "Over Tuning",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 885016,
+      "limit": 3,
+      "name": "Multi-Universe",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 911883,
+      "limit": 3,
+      "name": "Unexpected Dai",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 1041278,
+      "limit": 3,
+      "name": "Branded Expulsion",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 1122030,
+      "limit": 3,
+      "name": "Artmage Vandalism -Assault-",
+      "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 1142880,
+      "limit": 3,
+      "name": "Cyber Dragon Nachster",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 1149109,
+      "limit": 3,
+      "name": "Deck Lockdown",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 1174075,
+      "limit": 3,
+      "name": "Drytron Mu Beta Fafnir",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 1259915,
+      "limit": 3,
+      "name": "Sacred Beasts Thunderclap",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 1344018,
+      "limit": 3,
+      "name": "Time Pendulumgraph",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 1357146,
+      "limit": 3,
+      "name": "Ronintoadin",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 1372887,
+      "limit": 3,
+      "name": "Shared Ride",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 1475311,
+      "limit": 3,
+      "name": "Allure of Darkness",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 1498449,
+      "limit": 3,
+      "name": "Dracotail Faimena",
+      "points": 40,
+      "source": "custom"
+    },
+    {
+      "id": 1508649,
+      "limit": 3,
+      "name": "Altergeist Hexstia",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 1686814,
+      "limit": 3,
+      "name": "Ultimaya Tzolkin",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 1697104,
+      "limit": 3,
+      "name": "PSY-Framegear Epsilon",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 1845204,
+      "limit": 3,
+      "name": "Instant Fusion",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 1984618,
+      "limit": 3,
+      "name": "Nadir Servant",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 2263869,
+      "limit": 3,
+      "name": "Ultimate Slayer",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 2295440,
+      "limit": 3,
+      "name": "One for One",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 2407234,
+      "limit": 3,
+      "name": "Number 69: Heraldry Crest",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 2463794,
+      "limit": 3,
+      "name": "Fiendsmith's Requiem",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 2501624,
+      "limit": 3,
+      "name": "Dark Magician Girl the Magician's Apprentice",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 2526224,
+      "limit": 3,
+      "name": "Fire King High Avatar Kirin",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 2563463,
+      "limit": 3,
+      "name": "Wandering Gryphon Rider",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 2609443,
+      "limit": 3,
+      "name": "Chronomaly Vimana",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 2772337,
+      "limit": 3,
+      "name": "Promethean Princess, Bestower of Flames",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 2956282,
+      "limit": 3,
+      "name": "Naturia Barkion",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 3040496,
+      "limit": 3,
+      "name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 3280747,
+      "limit": 3,
+      "name": "Sixth Sense",
+      "points": 65,
+      "source": "genesys"
+    },
+    {
+      "id": 3294539,
+      "limit": 3,
+      "name": "Crimson Blade Dragon",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 3298689,
+      "limit": 3,
+      "name": "The Phantom Knights' Rank-Up-Magic Launch",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 3422200,
+      "limit": 3,
+      "name": "Crystron Sulfefnir",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 3496543,
+      "limit": 3,
+      "name": "Sinful Spoils of the White Forest",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 3519195,
+      "limit": 3,
+      "name": "Evil Assault",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 3594985,
+      "limit": 3,
+      "name": "Majespecter Draco - Ryu",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 3679218,
+      "limit": 3,
+      "name": "Knightmare Mermaid",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 3685372,
+      "limit": 3,
+      "name": "CXyz Gimmick Puppet Fanatix Machinix",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 3734202,
+      "limit": 3,
+      "name": "Naturia Sacred Tree",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 3828844,
+      "limit": 3,
+      "name": "Rikka Queen Strenna",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 4019153,
+      "limit": 3,
+      "name": "Number 4: Numeron Gate Catvari",
+      "points": 0,
+      "source": "custom"
+    },
+    {
+      "id": 4026187,
+      "limit": 3,
+      "name": "Teller of Fairy Tails",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 4031928,
+      "limit": 3,
+      "name": "Change of Heart",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 4064925,
+      "limit": 3,
+      "name": "Ancient Gear Advance",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 4227096,
+      "limit": 3,
+      "name": "Mistaken Arrest",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 4280258,
+      "limit": 3,
+      "name": "Apollousa, Bow of the Goddess",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 4398189,
+      "limit": 3,
+      "name": "Witch of the White Forest",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 4423206,
+      "limit": 3,
+      "name": "M-X-Saber Invoker",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 4731783,
+      "limit": 3,
+      "name": "A Bao A Qu, the Lightless Shadow",
+      "points": 30,
+      "source": "custom"
+    },
+    {
+      "id": 4810828,
+      "limit": 3,
+      "name": "Sauravis, the Ancient and Ascended",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 4891376,
+      "limit": 3,
+      "name": "Zalen the Shackled Dragon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 4928565,
+      "limit": 3,
+      "name": "Tearlaments Kashtira",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 4993187,
+      "limit": 3,
+      "name": "W:P Fancy Ball",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 4997565,
+      "limit": 3,
+      "name": "Number 3: Cicada King",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 5043010,
+      "limit": 3,
+      "name": "Firewall Dragon",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 5370235,
+      "limit": 3,
+      "name": "Cyberdark Chimera",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 5380979,
+      "limit": 3,
+      "name": "Welcome Labrynth",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 5431722,
+      "limit": 3,
+      "name": "Dracotail Flame",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 5559570,
+      "limit": 3,
+      "name": "Elfnote June Pride",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 5833929,
+      "limit": 3,
+      "name": "Melffy Godmommy",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 5851097,
+      "limit": 3,
+      "name": "Vanity's Emptiness",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 5914858,
+      "limit": 3,
+      "name": "Junora the Power Patron of Tuning",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 5990062,
+      "limit": 3,
+      "name": "Reversal Quiz",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 5997110,
+      "limit": 3,
+      "name": "D/D Count Surveyor",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 6153210,
+      "limit": 3,
+      "name": "Ketu Dracotail",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 6186304,
+      "limit": 3,
+      "name": "D - Force",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 6195332,
+      "limit": 3,
+      "name": "Exstellarknight Constellar Ptolemy Ω7",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 6325660,
+      "limit": 3,
+      "name": "Dominus Spark",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 6351147,
+      "limit": 3,
+      "name": "Transaction Rollback",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 6498706,
+      "limit": 3,
+      "name": "Fusion Deployment",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 6511113,
+      "limit": 3,
+      "name": "Traptrix Rafflesia",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 6560411,
+      "limit": 3,
+      "name": "Bramble Rose Dragon",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 6595475,
+      "limit": 3,
+      "name": "Onomatopaira",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 6602300,
+      "limit": 3,
+      "name": "Blaze Fenix, the Burning Bombardment Bird",
+      "points": 70,
+      "source": "genesys"
+    },
+    {
+      "id": 6636319,
+      "limit": 3,
+      "name": "Evil★Twin Ki-sikil Deal",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 6637331,
+      "limit": 3,
+      "name": "Bystial Druiswurm",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 6728559,
+      "limit": 3,
+      "name": "Archnemeses Protos",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 6853254,
+      "limit": 3,
+      "name": "Return of the Dragon Lords",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 6855503,
+      "limit": 3,
+      "name": "Masquerade the Blazing Dragon",
+      "points": 16,
+      "source": "genesys"
+    },
+    {
+      "id": 7166709,
+      "limit": 3,
+      "name": "Steel-Stringed Sacrifice",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 7336745,
+      "limit": 3,
+      "name": "Dinomorphia Intact",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 7375867,
+      "limit": 3,
+      "name": "Dracotail Mululu",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 7394770,
+      "limit": 3,
+      "name": "Brilliant Fusion",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 7477101,
+      "limit": 3,
+      "name": "Seventh Tachyon",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 7478431,
+      "limit": 3,
+      "name": "Naturia Sunflower",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 7511613,
+      "limit": 3,
+      "name": "Ryzeal Duo Drive",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 7594154,
+      "limit": 3,
+      "name": "Zenna's Deceiving Doll Maidens",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 7894706,
+      "limit": 3,
+      "name": "The Chaotic Phantasmal Sacred Beasts",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 8165596,
+      "limit": 3,
+      "name": "Number 90: Galaxy-Eyes Photon Lord",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 8264361,
+      "limit": 3,
+      "name": "Dharc the Dark Charmer, Gloomy",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 8267140,
+      "limit": 3,
+      "name": "Cosmic Cyclone",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 8593259,
+      "limit": 3,
+      "name": "Elemental HERO Clay Guardian",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 8628798,
+      "limit": 3,
+      "name": "D.D. Dynamite",
+      "points": 51,
+      "source": "genesys"
+    },
+    {
+      "id": 8633261,
+      "limit": 3,
+      "name": "Ice Ryzeal",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 8805651,
+      "limit": 3,
+      "name": "Megalith Phuloch",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 8903700,
+      "limit": 3,
+      "name": "Djinn Releaser of Rituals",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 8949584,
+      "limit": 3,
+      "name": "A Hero Lives",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 9030160,
+      "limit": 3,
+      "name": "Dark Contract with the Eternal Darkness",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 9091064,
+      "limit": 3,
+      "name": "Vanquish Soul Jiaolong",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 9126351,
+      "limit": 3,
+      "name": "Swap Frog",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 9283801,
+      "limit": 3,
+      "name": "The Monarchs Revolt",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 9411399,
+      "limit": 3,
+      "name": "Destiny HERO - Malicious",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 9464441,
+      "limit": 3,
+      "name": "Adamancipator Risen - Dragite",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 9627299,
+      "limit": 3,
+      "name": "Ichiki Sayori-Hime",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 9674034,
+      "limit": 3,
+      "name": "Snake-Eye Ash",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 9726840,
+      "limit": 3,
+      "name": "Sky Striker Mobilize - Linkage!",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 9742784,
+      "limit": 3,
+      "name": "Jet Synchron",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 9753964,
+      "limit": 3,
+      "name": "Hot Red Dragon Archfiend Abyss",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 9839945,
+      "limit": 3,
+      "name": "Lyna the Light Charmer, Lustrous",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 9940036,
+      "limit": 3,
+      "name": "Mereologic Aggregator",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 10045474,
+      "limit": 3,
+      "name": "Infinite Impermanence",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 10125011,
+      "limit": 3,
+      "name": "Constellar Tellarknights",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 10158145,
+      "limit": 3,
+      "name": "Knightmare Corruptor Iblee",
+      "points": 63,
+      "source": "custom"
+    },
+    {
+      "id": 10182251,
+      "limit": 3,
+      "name": "Lyrilusc - Beryl Canary",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 10186633,
+      "limit": 3,
+      "name": "EN Shuffle",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 10266279,
+      "limit": 3,
+      "name": "Junoldo the Shadespirit Power Patron",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 10426067,
+      "limit": 3,
+      "name": "Darklord Djehuty",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 10443957,
+      "limit": 3,
+      "name": "Cyber Dragon Infinity",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 10547580,
+      "limit": 3,
+      "name": "Ancient Gear Ballista",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 10602628,
+      "limit": 3,
+      "name": "Blackwing - Boreastorm the Wicked Wind",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 10604644,
+      "limit": 3,
+      "name": "Therion \"King\" Regulus",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 10666000,
+      "limit": 3,
+      "name": "Number 1: Infection Buzzking",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 10673071,
+      "limit": 3,
+      "name": "Virakam, the Divine Spirit of Artifice",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 10808715,
+      "limit": 3,
+      "name": "Masked HERO Dusk Crow",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 10875327,
+      "limit": 3,
+      "name": "Earthbound Immortal Aslla piscu",
+      "points": 51,
+      "source": "genesys"
+    },
+    {
+      "id": 10963799,
+      "limit": 3,
+      "name": "Barrier Statue of the Torrent",
+      "points": 24,
+      "source": "custom"
+    },
+    {
+      "id": 11110587,
+      "limit": 3,
+      "name": "That Grass Looks Greener",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 11321089,
+      "limit": 3,
+      "name": "Guardian Chimera",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 11335209,
+      "limit": 3,
+      "name": "Duamutef, Blessing of Horus",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 11366199,
+      "limit": 3,
+      "name": "Dark Simorgh",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 11398059,
+      "limit": 3,
+      "name": "King of the Feral Imps",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 11590299,
+      "limit": 3,
+      "name": "Dora Dora",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 11609969,
+      "limit": 3,
+      "name": "D/D Savant Kepler",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 11765832,
+      "limit": 3,
+      "name": "Garura, Wings of Resonant Life",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 11877465,
+      "limit": 3,
+      "name": "Evigishki Mind Augus",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 11962031,
+      "limit": 3,
+      "name": "Salamangreat of Fire",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 12067160,
+      "limit": 3,
+      "name": "Gorgon of Zilofthonia",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 12197223,
+      "limit": 3,
+      "name": "Shiina, Twin Tempests of Celestial Thunder",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 12266229,
+      "limit": 3,
+      "name": "Illusion of Chaos",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 12375297,
+      "limit": 3,
+      "name": "Elfnote Power Patron",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 12381100,
+      "limit": 3,
+      "name": "Dragon Master Magia",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 12435193,
+      "limit": 3,
+      "name": "Koa'ki Meiru Drago",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 12580477,
+      "limit": 3,
+      "name": "Raigeki",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 12682213,
+      "limit": 3,
+      "name": "Iron Thunder",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 13035077,
+      "limit": 3,
+      "name": "Dragonic Diagram",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 13048472,
+      "limit": 3,
+      "name": "Pre-Preparation of Rites",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 13243124,
+      "limit": 3,
+      "name": "Favorite HERO Flame Wingman",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 13256226,
+      "limit": 3,
+      "name": "Elemental HERO Spirit of Neos",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 13332685,
+      "limit": 3,
+      "name": "Ame no Habakiri no Mitsurugi",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 13529466,
+      "limit": 3,
+      "name": "Invoked Caliga",
+      "points": 42,
+      "source": "custom"
+    },
+    {
+      "id": 13597785,
+      "limit": 3,
+      "name": "Elfnote Lucina",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 13650422,
+      "limit": 3,
+      "name": "Evil HERO Adusted Gold",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 13708888,
+      "limit": 3,
+      "name": "Evil HERO Neos Lord",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 13959634,
+      "limit": 3,
+      "name": "Moulinglacia the Elemental Lord",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 13974207,
+      "limit": 3,
+      "name": "Denko Sekka",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 14087893,
+      "limit": 3,
+      "name": "Book of Moon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 14088859,
+      "limit": 3,
+      "name": "Neos Fusion",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 14105623,
+      "limit": 3,
+      "name": "Odd-Eyes Arc Pendulum Dragon",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 14307929,
+      "limit": 3,
+      "name": "Diabell, Queen of the White Forest",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 14309486,
+      "limit": 3,
+      "name": "Koa'ki Meiru Overload",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 14470845,
+      "limit": 3,
+      "name": "Ojama Duo",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 14513016,
+      "limit": 3,
+      "name": "Ritual Beast Tamer Elder",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 14529511,
+      "limit": 3,
+      "name": "Mementomictlan Tecuhtlica - Creation King",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 14532163,
+      "limit": 3,
+      "name": "Lightning Storm",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 14558127,
+      "limit": 3,
+      "name": "Ash Blossom & Joyous Spring",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 14604710,
+      "limit": 3,
+      "name": "World Legacy Monstrosity",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 14785765,
+      "limit": 3,
+      "name": "Blackwing - Zephyros the Elite",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 14965712,
+      "limit": 3,
+      "name": "Multiplying Kuriboh!",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 15005145,
+      "limit": 3,
+      "name": "Centur-Ion Primera",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 15232745,
+      "limit": 3,
+      "name": "Number 1: Numeron Gate Ekam",
+      "points": 0,
+      "source": "custom"
+    },
+    {
+      "id": 15291624,
+      "limit": 3,
+      "name": "Thunder Dragon Colossus",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 15381421,
+      "limit": 3,
+      "name": "Starliege Seyfert",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 15397015,
+      "limit": 3,
+      "name": "Inspector Boarder",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 15415552,
+      "limit": 3,
+      "name": "Mortilux Heruvur",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 15443125,
+      "limit": 3,
+      "name": "Spright Starter",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 15693423,
+      "limit": 3,
+      "name": "Evenly Matched",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 15735108,
+      "limit": 3,
+      "name": "Spell Card \"Soul Exchange\"",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 15939229,
+      "limit": 3,
+      "name": "D/D/D Duo-Dawn King Kali Yuga",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 16135253,
+      "limit": 3,
+      "name": "Agido",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 16209941,
+      "limit": 3,
+      "name": "Danger! Chupacabra!",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 16278116,
+      "limit": 3,
+      "name": "Dragon's Bind",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 16306932,
+      "limit": 3,
+      "name": "Odd-Eyes Revolution Dragon",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 16387555,
+      "limit": 3,
+      "name": "Kewl Tune Cue",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 16428514,
+      "limit": 3,
+      "name": "Subterror Guru",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 16509007,
+      "limit": 3,
+      "name": "Kewl Tune Mix",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 16528181,
+      "limit": 3,
+      "name": "King's Sarcophagus",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 16691074,
+      "limit": 3,
+      "name": "Odd-Eyes Absolute Dragon",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 16922142,
+      "limit": 3,
+      "name": "Radiant Typhoon Krosea",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 16923472,
+      "limit": 3,
+      "name": "Wind-Up Hunter",
+      "points": 86,
+      "source": "genesys"
+    },
+    {
+      "id": 17178486,
+      "limit": 3,
+      "name": "Life Equalizer",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 17209452,
+      "limit": 3,
+      "name": "Kewl Tune Rotary",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 17266660,
+      "limit": 3,
+      "name": "Herald of Orange Light",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 17330916,
+      "limit": 3,
+      "name": "Performapal Monkeyboard",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 17375316,
+      "limit": 3,
+      "name": "Confiscation",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 17412721,
+      "limit": 3,
+      "name": "Elder Entity Norden",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 17473466,
+      "limit": 3,
+      "name": "Nervedo the Shadebeast Power Patron",
+      "points": 11,
+      "source": "custom"
+    },
+    {
+      "id": 17749468,
+      "limit": 3,
+      "name": "Azamina",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 17947697,
+      "limit": 3,
+      "name": "Maiden of White",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 17955766,
+      "limit": 3,
+      "name": "Neo-Spacian Aqua Dolphin",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 18094166,
+      "limit": 3,
+      "name": "Vision HERO Faris",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 18144507,
+      "limit": 3,
+      "name": "Harpie's Feather Duster",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 18165869,
+      "limit": 3,
+      "name": "Mementotlan Dark Blade",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 18239909,
+      "limit": 3,
+      "name": "Ignister Prominence, the Blasting Dracoslayer",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 18294799,
+      "limit": 3,
+      "name": "Schwarzschild Infinity Dragon",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 18326736,
+      "limit": 3,
+      "name": "Tellarknight Ptolemaeus",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 18795635,
+      "limit": 3,
+      "name": "GMX Applied Experiment #55",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 18940556,
+      "limit": 3,
+      "name": "Ultimate Conductor Tyranno",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 18940725,
+      "limit": 3,
+      "name": "Floowandereeze & Robina",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 18973184,
+      "limit": 3,
+      "name": "Branded Lost",
+      "points": 66,
+      "source": "genesys"
+    },
+    {
+      "id": 19048328,
+      "limit": 3,
+      "name": "Chaofeng, Phantom of the Yang Zing",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 19096726,
+      "limit": 3,
+      "name": "Tri-Brigade Mercourier",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 19144622,
+      "limit": 3,
+      "name": "Fairy Tail - Matchgiru",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 19181420,
+      "limit": 3,
+      "name": "Mementotlan Twin Dragon",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 19304410,
+      "limit": 3,
+      "name": "Tri-Brigade Springans Kitt",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 19434243,
+      "limit": 3,
+      "name": "Power Vice Dragon",
+      "points": 6,
+      "source": "genesys"
+    },
+    {
+      "id": 19613556,
+      "limit": 3,
+      "name": "Heavy Storm",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 19652159,
+      "limit": 3,
+      "name": "Light and Darkness Dragonlord",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 19715246,
+      "limit": 3,
+      "name": "Cyber Jormungardr",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 19740112,
+      "limit": 3,
+      "name": "Barrier Statue of the Drought",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 20049870,
+      "limit": 3,
+      "name": "GMX Researcher Selande",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 20212491,
+      "limit": 3,
+      "name": "Stray Purrely Street",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 20292186,
+      "limit": 3,
+      "name": "Artifact Scythe",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 20415050,
+      "limit": 3,
+      "name": "The Hidden Hecahands",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 20508881,
+      "limit": 3,
+      "name": "Radiant Typhoon Vision",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 20663556,
+      "limit": 3,
+      "name": "Substitoad",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 20715411,
+      "limit": 3,
+      "name": "D/D/D Zero Doom Queen Machinex",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 20994205,
+      "limit": 3,
+      "name": "Numbers Eveil",
+      "points": 70,
+      "source": "genesys"
+    },
+    {
+      "id": 21011044,
+      "limit": 3,
+      "name": "Shaddoll Schism",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 21044178,
+      "limit": 3,
+      "name": "Abyss Dweller",
+      "points": 67,
+      "source": "custom"
+    },
+    {
+      "id": 21074344,
+      "limit": 3,
+      "name": "Herald of Green Light",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 21123811,
+      "limit": 3,
+      "name": "Cosmic Blazar Dragon",
+      "points": 21,
+      "source": "genesys"
+    },
+    {
+      "id": 21143940,
+      "limit": 3,
+      "name": "Mask Change",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 21296502,
+      "limit": 3,
+      "name": "Toon Dark Magician",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 21347668,
+      "limit": 3,
+      "name": "Purrely Sleepy Memory",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 21377582,
+      "limit": 3,
+      "name": "Master Peace, the True Dracoslaying King",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 21419436,
+      "limit": 3,
+      "name": "Unchained Soul Rage Abominator",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 21565445,
+      "limit": 3,
+      "name": "Neptabyss, the Atlantean Prince",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 21848500,
+      "limit": 3,
+      "name": "Maliss <Q> Hearts Crypter",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 22125101,
+      "limit": 3,
+      "name": "Beyond the Pendulum",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 22283204,
+      "limit": 3,
+      "name": "The Gaze of Timaeus",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 22377092,
+      "limit": 3,
+      "name": "Trap Holic",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 22589918,
+      "limit": 3,
+      "name": "Reload",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 22593417,
+      "limit": 3,
+      "name": "Topologic Gumblar Dragon",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 22734799,
+      "limit": 3,
+      "name": "Summoner of the Sacred Beasts",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 22842126,
+      "limit": 3,
+      "name": "Pantheism of the Monarchs",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 22850702,
+      "limit": 3,
+      "name": "Chaos Angel",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 22888900,
+      "limit": 3,
+      "name": "Grisaille Prison",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 22908820,
+      "limit": 3,
+      "name": "Elemental HERO Sunrise",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 22912101,
+      "limit": 3,
+      "name": "Surge Blitzclique",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 22938501,
+      "limit": 3,
+      "name": "Regenesis Sage",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 22984000,
+      "limit": 3,
+      "name": "Mercurium the Living Quicksilver",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 23002292,
+      "limit": 3,
+      "name": "Red Reboot",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 23076639,
+      "limit": 3,
+      "name": "Gazelle the King of Mythical Claws",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 23151193,
+      "limit": 3,
+      "name": "Diabellstar Vengeance",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 23401839,
+      "limit": 3,
+      "name": "Senju of the Thousand Hands",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 23434538,
+      "limit": 3,
+      "name": "Maxx \"C\"",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 23516703,
+      "limit": 3,
+      "name": "Summon Limit",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 23557835,
+      "limit": 3,
+      "name": "Dimension Fusion",
+      "points": 40,
+      "source": "genesys"
+    },
+    {
+      "id": 23581825,
+      "limit": 3,
+      "name": "Rank-Up-Magic Soul Shave Force",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 23623653,
+      "limit": 3,
+      "name": "Spiritual Beast Tamer Lara",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 23657016,
+      "limit": 3,
+      "name": "Tenpai Dragon Genroku",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 23689428,
+      "limit": 3,
+      "name": "Infinitrack Goliath",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 23829452,
+      "limit": 3,
+      "name": "Artmage Power Patron",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 23846921,
+      "limit": 3,
+      "name": "Arcana Force XXI - The World",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 23851033,
+      "limit": 3,
+      "name": "Odd-Eyes Gravity Dragon",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 23856331,
+      "limit": 3,
+      "name": "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 24088928,
+      "limit": 3,
+      "name": "Skull Archfiend of Chaos",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24094258,
+      "limit": 3,
+      "name": "Heavymetalfoes Electrumite",
+      "points": 40,
+      "source": "custom"
+    },
+    {
+      "id": 24207889,
+      "limit": 3,
+      "name": "There Can Be Only One",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 24220368,
+      "limit": 3,
+      "name": "Gem-Knight Dispersion",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24224830,
+      "limit": 3,
+      "name": "Called by the Grave",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24269961,
+      "limit": 3,
+      "name": "Unchained Soul Lord of Yama",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24299458,
+      "limit": 3,
+      "name": "Forbidden Droplet",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24348804,
+      "limit": 3,
+      "name": "Lose 1 Turn",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 24461358,
+      "limit": 3,
+      "name": "Ragged Records of Rites",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 24484270,
+      "limit": 3,
+      "name": "Gem-Knight Phantom Quartz",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 24508238,
+      "limit": 3,
+      "name": "D.D. Crow",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 24689197,
+      "limit": 3,
+      "name": "Aromalilith Rosalina",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 24701066,
+      "limit": 3,
+      "name": "Infinitrack River Stormer",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 24749710,
+      "limit": 3,
+      "name": "Mind Shuffle",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 24799107,
+      "limit": 3,
+      "name": "Dragonmaid Sheou",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 24878656,
+      "limit": 3,
+      "name": "Toy Box",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 24915933,
+      "limit": 3,
+      "name": "Granguignol the Dusk Dragon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 25274141,
+      "limit": 3,
+      "name": "Urgent Schedule",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 25311006,
+      "limit": 3,
+      "name": "Triple Tactics Talent",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 25550531,
+      "limit": 3,
+      "name": "Purrely",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 25592142,
+      "limit": 3,
+      "name": "Astellar of the White Forest",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 25687946,
+      "limit": 3,
+      "name": "Melffy Footsteps",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 25789292,
+      "limit": 3,
+      "name": "Forbidden Chalice",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 25801745,
+      "limit": 3,
+      "name": "Lo, the Prayers of the Voiceless Voice",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 25807544,
+      "limit": 3,
+      "name": "Noble Arms Museum",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 25857977,
+      "limit": 3,
+      "name": "D/D/D Vice King Requiem",
+      "points": 8,
+      "source": "custom"
+    },
+    {
+      "id": 25861589,
+      "limit": 3,
+      "name": "Aroma Blend",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 25865565,
+      "limit": 3,
+      "name": "Crystron Sulfador",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 25926710,
+      "limit": 3,
+      "name": "Kelbek the Ancient Vanguard",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 26096328,
+      "limit": 3,
+      "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 26236560,
+      "limit": 3,
+      "name": "Unchained Twins - Aruha",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 26268488,
+      "limit": 3,
+      "name": "Stardust Sifr Divine Dragon",
+      "points": 21,
+      "source": "genesys"
+    },
+    {
+      "id": 26302107,
+      "limit": 3,
+      "name": "Danger! Dogman!",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 26400609,
+      "limit": 3,
+      "name": "Tidal, Dragon Ruler of Waterfalls",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 26631975,
+      "limit": 3,
+      "name": "Dinomorphia Domain",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 26692769,
+      "limit": 3,
+      "name": "The Phantom Knights of Rusty Bardiche",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 26889158,
+      "limit": 3,
+      "name": "Salamangreat Gazelle",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 26964762,
+      "limit": 3,
+      "name": "Destiny HERO - Dark Angel",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 26973555,
+      "limit": 3,
+      "name": "Number F0: Utopic Draco Future",
+      "points": 25,
+      "source": "genesys"
+    },
+    {
+      "id": 26984177,
+      "limit": 3,
+      "name": "Walls of the Imperial Tomb",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 27004302,
+      "limit": 3,
+      "name": "Gem-Armadillo",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 27174286,
+      "limit": 3,
+      "name": "Return from the Different Dimension",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 27182739,
+      "limit": 3,
+      "name": "Mathmech Sigma",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 27184601,
+      "limit": 3,
+      "name": "Artmage Diactorus",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 27204311,
+      "limit": 3,
+      "name": "Nibiru, the Primal Being",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 27243130,
+      "limit": 3,
+      "name": "Forbidden Lance",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 27381364,
+      "limit": 3,
+      "name": "Spright Elf",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 27412542,
+      "limit": 3,
+      "name": "Abomination's Prison",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 27420823,
+      "limit": 3,
+      "name": "K9-17 \"Ripper\"",
+      "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 27519978,
+      "limit": 3,
+      "name": "Charmer Quartet in Bloom",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 27548199,
+      "limit": 3,
+      "name": "Borreload Savage Dragon",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 27552504,
+      "limit": 3,
+      "name": "Beatrice, Lady of the Eternal",
+      "points": 60,
+      "source": "custom"
+    },
+    {
+      "id": 27572350,
+      "limit": 3,
+      "name": "Bystial Dis Pater",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 27632520,
+      "limit": 3,
+      "name": "Fairy Tail - Wiccat",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 27780618,
+      "limit": 3,
+      "name": "Vision HERO Vyon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 27813661,
+      "limit": 3,
+      "name": "Sky Iris",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 27970830,
+      "limit": 3,
+      "name": "Gateway of the Six",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 28126717,
+      "limit": 3,
+      "name": "Floowandereeze and the Magnificent Map",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 28168628,
+      "limit": 3,
+      "name": "Rock of the Vanquisher",
+      "points": 8,
+      "source": "custom"
+    },
+    {
+      "id": 28400508,
+      "limit": 3,
+      "name": "Number 97: Draglubion",
+      "points": 60,
+      "source": "custom"
+    },
+    {
+      "id": 28403802,
+      "limit": 3,
+      "name": "P.U.N.K. JAM Dragon Drive",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 28406301,
+      "limit": 3,
+      "name": "D/D Gryphon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 28566710,
+      "limit": 3,
+      "name": "Last Turn",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 28642461,
+      "limit": 3,
+      "name": "K9-66a Jokul",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 28776350,
+      "limit": 3,
+      "name": "Akashic Magician",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 28781003,
+      "limit": 3,
+      "name": "Raider's Knight",
+      "points": 63,
+      "source": "custom"
+    },
+    {
+      "id": 28803166,
+      "limit": 3,
+      "name": "Lacrima the Crimson Tears",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 28954097,
+      "limit": 3,
+      "name": "Mirror Swordknight",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 29111045,
+      "limit": 3,
+      "name": "Goblin Biker Grand Breakout",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 29280200,
+      "limit": 3,
+      "name": "Vanquish Soul Dr. Mad Love",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 29301450,
+      "limit": 3,
+      "name": "S:P Little Knight",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 29302858,
+      "limit": 3,
+      "name": "Vanquish Soul Razen",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 29417188,
+      "limit": 3,
+      "name": "Psi-Blocker",
+      "points": 61,
+      "source": "genesys"
+    },
+    {
+      "id": 29423048,
+      "limit": 3,
+      "name": "Infernal Flame Banshee",
+      "points": 35,
+      "source": "custom"
+    },
+    {
+      "id": 29436665,
+      "limit": 3,
+      "name": "Dark Eradicator Warlock",
+      "points": 60,
+      "source": "custom"
+    },
+    {
+      "id": 29479265,
+      "limit": 3,
+      "name": "Unchained Abomination",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 29510428,
+      "limit": 3,
+      "name": "Imperial Princess Quinquery",
+      "points": 77,
+      "source": "custom"
+    },
+    {
+      "id": 29843091,
+      "limit": 3,
+      "name": "Ojama Trio",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 29876299,
+      "limit": 3,
+      "name": "Megalith Anastasis",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 29927283,
+      "limit": 3,
+      "name": "Returned Dino Daneen",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 29942771,
+      "limit": 3,
+      "name": "Naturia Camellia",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 29981921,
+      "limit": 3,
+      "name": "Legendary Six Samurai - Shi En",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 30241314,
+      "limit": 3,
+      "name": "Macro Cosmos",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 30271097,
+      "limit": 3,
+      "name": "The Fallen & The Virtuous",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 30336082,
+      "limit": 3,
+      "name": "Sangen Summoning",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 30342076,
+      "limit": 3,
+      "name": "Link Decoder",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 30581601,
+      "limit": 3,
+      "name": "Yummy★Snatchy",
+      "points": 69,
+      "source": "custom"
+    },
+    {
+      "id": 30583090,
+      "limit": 3,
+      "name": "Evil HERO Dead-End Prison",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 30741334,
+      "limit": 3,
+      "name": "Coach King Giantrainer",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 30748475,
+      "limit": 3,
+      "name": "Destructive Daruma Karma Cannon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 30864377,
+      "limit": 3,
+      "name": "Gladiator Beast Tamer Editor",
+      "points": 80,
+      "source": "genesys"
+    },
+    {
+      "id": 30875635,
+      "limit": 3,
+      "name": "Miracle Ejector",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 30998403,
+      "limit": 3,
+      "name": "D/D/D Sky King Zeus Ragnarok",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 31036355,
+      "limit": 3,
+      "name": "Creature Swap",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 31178212,
+      "limit": 3,
+      "name": "Majespecter Unicorn - Kirin",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 31259606,
+      "limit": 3,
+      "name": "Supreme Sea Mare",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 31286915,
+      "limit": 3,
+      "name": "K9-X \"Ripper/M\"",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 31423101,
+      "limit": 3,
+      "name": "Divine Sword - Phoenix Blade",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 31425736,
+      "limit": 3,
+      "name": "Cupsy☆Yummy",
+      "points": 11,
+      "source": "custom"
+    },
+    {
+      "id": 31443476,
+      "limit": 3,
+      "name": "Quick Launch",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 31531914,
+      "limit": 3,
+      "name": "Unchained Ogre Shma",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 31552317,
+      "limit": 3,
+      "name": "Crystron Inclusion",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 31562086,
+      "limit": 3,
+      "name": "Runick Tip",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 31596518,
+      "limit": 3,
+      "name": "Eidos the Underworld Monarch",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 31615285,
+      "limit": 3,
+      "name": "Cactus Bouncer",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 31786838,
+      "limit": 3,
+      "name": "Regenesis",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 31834488,
+      "limit": 3,
+      "name": "Book of Lunar Eclipse",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 31849106,
+      "limit": 3,
+      "name": "Different Dimension Ground",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 32044231,
+      "limit": 3,
+      "name": "Rank-Up-Magic Magical Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 32044675,
+      "limit": 3,
+      "name": "Glitch Clutch Nullgainer",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 32232538,
+      "limit": 3,
+      "name": "D/D/D Wise King Solomon",
+      "points": 8,
+      "source": "custom"
+    },
+    {
+      "id": 32289031,
+      "limit": 3,
+      "name": "Tellarknight Constellar Delteros",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 32476603,
+      "limit": 3,
+      "name": "Silverrokket Dragon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 32530043,
+      "limit": 3,
+      "name": "Gallant Granite",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 32548318,
+      "limit": 3,
+      "name": "Rahu Dracotail",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 32619583,
+      "limit": 3,
+      "name": "Sillva, Warlord of Dark World",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 32665564,
+      "limit": 3,
+      "name": "Dark Contract with the Zero King",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 32723153,
+      "limit": 3,
+      "name": "Magical Explosion",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 32731036,
+      "limit": 3,
+      "name": "The Bystial Lubellion",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 32759190,
+      "limit": 3,
+      "name": "Hecahands Yadel",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 32762201,
+      "limit": 3,
+      "name": "Ancient Gear Statue",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 32807846,
+      "limit": 3,
+      "name": "Reinforcement of the Army",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 32909498,
+      "limit": 3,
+      "name": "Kashtira Fenrir",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 32991300,
+      "limit": 3,
+      "name": "Fiendsmith's Agnumday",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 33017655,
+      "limit": 3,
+      "name": "The Gates of Dark World",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 33017964,
+      "limit": 3,
+      "name": "Illusion Gate",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 33158448,
+      "limit": 3,
+      "name": "F.A. Dawn Dragster",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 33166263,
+      "limit": 3,
+      "name": "Hyperinvoked Aeon",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 33198837,
+      "limit": 3,
+      "name": "Naturia Beast",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 33212663,
+      "limit": 3,
+      "name": "Archnemeses Eschatos",
+      "points": 35,
+      "source": "custom"
+    },
+    {
+      "id": 33252803,
+      "limit": 3,
+      "name": "Rank-Up-Magic Quick Chaos",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 33302589,
+      "limit": 3,
+      "name": "Constellar Castor",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 33508719,
+      "limit": 3,
+      "name": "Morphing Jar",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 33543890,
+      "limit": 3,
+      "name": "Drytron Beta Rastaban",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 33599853,
+      "limit": 3,
+      "name": "Light and Darkness Ritual",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 33746252,
+      "limit": 3,
+      "name": "Majesty's Fiend",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 33760966,
+      "limit": 3,
+      "name": "Dracotail Arthalion",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 33782437,
+      "limit": 3,
+      "name": "One Day of Peace",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 33814281,
+      "limit": 3,
+      "name": "Dark Contract with Patent License",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 33854624,
+      "limit": 3,
+      "name": "Bystial Magnamhut",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 33918636,
+      "limit": 3,
+      "name": "Superheavy Samurai Scarecrow",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 34001672,
+      "limit": 3,
+      "name": "Goblin Biker Big Gabonga",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 34022970,
+      "limit": 3,
+      "name": "Ext Ryzeal",
+      "points": 39,
+      "source": "custom"
+    },
+    {
+      "id": 34086406,
+      "limit": 3,
+      "name": "Lavalval Chain",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 34124316,
+      "limit": 3,
+      "name": "Cyber Jar",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 34206604,
+      "limit": 3,
+      "name": "Magical Scientist",
+      "points": 95,
+      "source": "genesys"
+    },
+    {
+      "id": 34230233,
+      "limit": 3,
+      "name": "Grapha, Dragon Lord of Dark World",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 34235530,
+      "limit": 3,
+      "name": "Legendary Lord Six Samurai - Shi En",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 34267821,
+      "limit": 3,
+      "name": "Artifact Lancea",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 34408491,
+      "limit": 3,
+      "name": "Beelze of the Diabolic Dragons",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 34773082,
+      "limit": 3,
+      "name": "Frightfur Patchwork",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 34876719,
+      "limit": 3,
+      "name": "N.As.H. Knight",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 34906152,
+      "limit": 3,
+      "name": "Mass Driver",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 34909328,
+      "limit": 3,
+      "name": "Ryzeal Detonator",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 34945480,
+      "limit": 3,
+      "name": "Outer Entity Azathot",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 34950192,
+      "limit": 3,
+      "name": "Lev Shaddoll Fusion",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 34989413,
+      "limit": 3,
+      "name": "Reprodocus",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 35059553,
+      "limit": 3,
+      "name": "Kaiser Colosseum",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 35103106,
+      "limit": 3,
+      "name": "Evolzar Lars",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 35125879,
+      "limit": 3,
+      "name": "True King's Return",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 35261759,
+      "limit": 3,
+      "name": "Pot of Desires",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 35269904,
+      "limit": 3,
+      "name": "Triple Tactics Thrust",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 35405755,
+      "limit": 3,
+      "name": "Kurikara Divincarnate",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 35480699,
+      "limit": 3,
+      "name": "Book of Eclipse",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 35614780,
+      "limit": 3,
+      "name": "Light End Sublimation Dragon",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 35622739,
+      "limit": 3,
+      "name": "Gem-Knight Quartz",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 35726888,
+      "limit": 3,
+      "name": "Foolish Burial Goods",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 35772782,
+      "limit": 3,
+      "name": "Number 67: Pair-a-Dice Smasher",
+      "points": 67,
+      "source": "genesys"
+    },
+    {
+      "id": 35844557,
+      "limit": 3,
+      "name": "Sword Ryzeal",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 35984222,
+      "limit": 3,
+      "name": "Ido the Supreme Magical Force",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 36224040,
+      "limit": 3,
+      "name": "Rank-Up-Magic Zexal Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 36521307,
+      "limit": 3,
+      "name": "Mathmech Circular",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 36637374,
+      "limit": 3,
+      "name": "Branded Opening",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 36709484,
+      "limit": 3,
+      "name": "Theorealize Past Lull",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 36890111,
+      "limit": 3,
+      "name": "Mansion of the Dreadful Dolls",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 36982581,
+      "limit": 3,
+      "name": "Gishki Nekromirror",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 37343995,
+      "limit": 3,
+      "name": "Exosister Martha",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 37478723,
+      "limit": 3,
+      "name": "\"Infernoble Arms - Durendal\"",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 37582948,
+      "limit": 3,
+      "name": "Live☆Twin Sunny's Snitch",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 37613663,
+      "limit": 3,
+      "name": "Millennium Ankh",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 37654623,
+      "limit": 3,
+      "name": "Hideout in the Sky, Coulomb",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 37818794,
+      "limit": 3,
+      "name": "Red-Eyes Dark Dragoon",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 37961969,
+      "limit": 3,
+      "name": "Tearlaments Havnis",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 38044854,
+      "limit": 3,
+      "name": "Rise Rank-Up-Magic Raidraptor's Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 38053381,
+      "limit": 3,
+      "name": "Generaider Boss Stage",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 38082437,
+      "limit": 3,
+      "name": "Morphtronic Telefon",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 38120068,
+      "limit": 3,
+      "name": "Trade-In",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 38179121,
+      "limit": 3,
+      "name": "Double Evolution Pill",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 38264974,
+      "limit": 3,
+      "name": "Chimera the Illusion Beast",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 38273745,
+      "limit": 3,
+      "name": "Evilswarm Ouroboros",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 38331564,
+      "limit": 3,
+      "name": "Star Seraph Scepter",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 38339996,
+      "limit": 3,
+      "name": "Rescue-ACE Impulse",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 38572779,
+      "limit": 3,
+      "name": "Miscellaneousaurus",
+      "points": 72,
+      "source": "custom"
+    },
+    {
+      "id": 38648860,
+      "limit": 3,
+      "name": "Elzette, Azamina of the White Forest",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 38723936,
+      "limit": 3,
+      "name": "Question",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 38775407,
+      "limit": 3,
+      "name": "Sengenjin Wakes from a Millennium",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 38776201,
+      "limit": 3,
+      "name": "Sacred Beasts Released",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 38811586,
+      "limit": 3,
+      "name": "Albion the Sanctifire Dragon",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 38814750,
+      "limit": 3,
+      "name": "PSY-Framegear Gamma",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 39064822,
+      "limit": 3,
+      "name": "Knightmare Goblin",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 39341885,
+      "limit": 3,
+      "name": "Radiant Typhoon Varuroon, the Marine Eidolon",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 39402797,
+      "limit": 3,
+      "name": "Trident Dragion",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 39512984,
+      "limit": 3,
+      "name": "Gem-Knight Master Diamond",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 39552584,
+      "limit": 3,
+      "name": "Grapha, Dragon Overlord of Dark World",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 39576656,
+      "limit": 3,
+      "name": "Kewl Tune Crackle",
+      "points": 85,
+      "source": "custom"
+    },
+    {
+      "id": 39931513,
+      "limit": 3,
+      "name": "Tenpai Dragon Paidra",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 39973386,
+      "limit": 3,
+      "name": "Duality",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 40044918,
+      "limit": 3,
+      "name": "Elemental HERO Stratos",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 40177746,
+      "limit": 3,
+      "name": "Eva",
+      "points": 4,
+      "source": "custom"
+    },
+    {
+      "id": 40318957,
+      "limit": 3,
+      "name": "Performapal Skullcrobat Joker",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 40366667,
+      "limit": 3,
+      "name": "Dominus Impulse",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 40605147,
+      "limit": 3,
+      "name": "Solemn Strike",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 40672993,
+      "limit": 3,
+      "name": "Lightning Rod Lord",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 41165831,
+      "limit": 3,
+      "name": "Unchained Soul of Sharvara",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 41201386,
+      "limit": 3,
+      "name": "Rank-Up-Magic Raid Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 41371602,
+      "limit": 3,
+      "name": "Stand Up Centur-Ion!",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 41375811,
+      "limit": 3,
+      "name": "Zoodiac Chakanine",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 41418852,
+      "limit": 3,
+      "name": "Numeron Network",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 41420027,
+      "limit": 3,
+      "name": "Solemn Judgment",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 41443249,
+      "limit": 3,
+      "name": "Rescue-ACE Preventer",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 41522092,
+      "limit": 3,
+      "name": "Number F0: Utopic Future Zexal",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 41524885,
+      "limit": 3,
+      "name": "Exosister Asophiel",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 41739381,
+      "limit": 3,
+      "name": "Clockwork Knight",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 41855169,
+      "limit": 3,
+      "name": "Jowgen the Spiritualist",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 41927278,
+      "limit": 3,
+      "name": "Double-Edged Sword",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 41999284,
+      "limit": 3,
+      "name": "Linkuriboh",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 42009836,
+      "limit": 3,
+      "name": "Fossil Dyna Pachycephalo",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 42097666,
+      "limit": 3,
+      "name": "Spirit with Eyes of Blue",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 42141493,
+      "limit": 3,
+      "name": "Mulcharmy Fuwalos",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 42230449,
+      "limit": 3,
+      "name": "Number 2: Numeron Gate Dve",
+      "points": 0,
+      "source": "custom"
+    },
+    {
+      "id": 42302563,
+      "limit": 3,
+      "name": "Elfnote Seraphim Strelitzia",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 42382265,
+      "limit": 3,
+      "name": "D/D Scale Surveyor",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 42493140,
+      "limit": 3,
+      "name": "Centur-Ion Trudea",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 42544773,
+      "limit": 3,
+      "name": "Spenta, the Magistus Sealer",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 42703248,
+      "limit": 3,
+      "name": "Giant Trunade",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 42741437,
+      "limit": 3,
+      "name": "Exosister Mikailis",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 42752141,
+      "limit": 3,
+      "name": "Evolzar Dolkka",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 42759961,
+      "limit": 3,
+      "name": "Clown Crew Flair",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 42790071,
+      "limit": 3,
+      "name": "Altergeist Multifaker",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 42829885,
+      "limit": 3,
+      "name": "The Forceful Sentry",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 43040603,
+      "limit": 3,
+      "name": "Monster Gate",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 43262273,
+      "limit": 3,
+      "name": "Appointer of the Red Lotus",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 43316238,
+      "limit": 3,
+      "name": "Danger! Bigfoot!",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 43383478,
+      "limit": 3,
+      "name": "Rank-Up-Magic Raptor's Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 43387895,
+      "limit": 3,
+      "name": "Supreme King Dragon Starving Venom",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 43476205,
+      "limit": 3,
+      "name": "Rank-Up-Magic Revolution Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 43527730,
+      "limit": 3,
+      "name": "Mikanko Water Arabesque",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 43694650,
+      "limit": 3,
+      "name": "Danger!? Jackalope?",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 43711255,
+      "limit": 3,
+      "name": "Prohibition",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 43904702,
+      "limit": 3,
+      "name": "Kewl Tune Clip",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 44146295,
+      "limit": 3,
+      "name": "Mirrorjade the Iceblade Dragon",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 44293356,
+      "limit": 3,
+      "name": "Megalith Notrah Plura",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 44335251,
+      "limit": 3,
+      "name": "Souleating Oviraptor",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 44362883,
+      "limit": 3,
+      "name": "Branded Fusion",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 44394295,
+      "limit": 3,
+      "name": "Shaddoll Fusion",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 44405066,
+      "limit": 3,
+      "name": "Red-Eyes Flare Metal Dragon",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 44455560,
+      "limit": 3,
+      "name": "Fire King Courtier Ulcanix",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 44654994,
+      "limit": 3,
+      "name": "Artmage Impasto -Recapture-",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 44763025,
+      "limit": 3,
+      "name": "Delinquent Duo",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 44839512,
+      "limit": 3,
+      "name": "Conduction Warrior Linear Magnum Plus Minus",
+      "points": 6,
+      "source": "genesys"
+    },
+    {
+      "id": 45041488,
+      "limit": 3,
+      "name": "Koa'ki Meiru Guardian",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 45112597,
+      "limit": 3,
+      "name": "Worldsea Dragon Zealantis",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 45141013,
+      "limit": 3,
+      "name": "Heat Wave",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 45171524,
+      "limit": 3,
+      "name": "Mitsurugi Prayers",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 45206713,
+      "limit": 3,
+      "name": "D/D Swirl Slime",
+      "points": 8,
+      "source": "custom"
+    },
+    {
+      "id": 45222299,
+      "limit": 3,
+      "name": "Evigishki Gustkraken",
+      "points": 60,
+      "source": "custom"
+    },
+    {
+      "id": 45354718,
+      "limit": 3,
+      "name": "Lyrilusc - Bird Call",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 45659520,
+      "limit": 3,
+      "name": "Evil HERO Sinister Necrom",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 45710945,
+      "limit": 3,
+      "name": "Galaxy-Eyes Tachyon Primal",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 45742626,
+      "limit": 3,
+      "name": "Pilgrim Reaper",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 45852939,
+      "limit": 3,
+      "name": "Eclipse Twins",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 45883110,
+      "limit": 3,
+      "name": "Guiding Quem, the Virtuous",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 45950291,
+      "limit": 3,
+      "name": "Rank-Up-Magic Astral Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 45986603,
+      "limit": 3,
+      "name": "Snatch Steal",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 46057733,
+      "limit": 3,
+      "name": "Shamisen Samsara Sorrowcat",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 46060017,
+      "limit": 3,
+      "name": "Zoodiac Barrage",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 46072770,
+      "limit": 3,
+      "name": "The Phantom Knights of Decayed Cloak",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 46145256,
+      "limit": 3,
+      "name": "Barrier Statue of the Heavens",
+      "points": 70,
+      "source": "genesys"
+    },
+    {
+      "id": 46159582,
+      "limit": 3,
+      "name": "Gishki Aquamirror",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 46372010,
+      "limit": 3,
+      "name": "Dark Contract with the Gate",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 46396218,
+      "limit": 3,
+      "name": "Azamina Ilia Silvia",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 46411259,
+      "limit": 3,
+      "name": "Metamorphosis",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 46412900,
+      "limit": 3,
+      "name": "Volcanic Emperor",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 46502744,
+      "limit": 3,
+      "name": "Retaliating \"C\"",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 46593546,
+      "limit": 3,
+      "name": "D/D/D Deviser King Deus Machinex",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 46640168,
+      "limit": 3,
+      "name": "Fiendsmith's Lacrima",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 46796664,
+      "limit": 3,
+      "name": "D/D Savant Copernicus",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 46935289,
+      "limit": 3,
+      "name": "Herald of Mirage Lights",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 47075569,
+      "limit": 3,
+      "name": "Performapal Pendulum Sorcerer",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 47084486,
+      "limit": 3,
+      "name": "Vanity's Fiend",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 47325505,
+      "limit": 3,
+      "name": "Fossil Dig",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 47330808,
+      "limit": 3,
+      "name": "Hapi, Guidance of Horus",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 47355498,
+      "limit": 3,
+      "name": "Necrovalley",
+      "points": 25,
+      "source": "genesys"
+    },
+    {
+      "id": 47594939,
+      "limit": 3,
+      "name": "And the Band Played On",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 47611119,
+      "limit": 3,
+      "name": "Gem-Knight Lady Lapis Lazuli",
+      "points": 51,
+      "source": "genesys"
+    },
+    {
+      "id": 47660516,
+      "limit": 3,
+      "name": "Rank-Up-Magic Barian's Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 47736165,
+      "limit": 3,
+      "name": "Crystron Eleskeletus",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 47882565,
+      "limit": 3,
+      "name": "Rank-Up-Magic Cipher Ascension",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 47960073,
+      "limit": 3,
+      "name": "K9-04 Noroi",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 47961808,
+      "limit": 3,
+      "name": "Barrier Statue of the Inferno",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 48130397,
+      "limit": 3,
+      "name": "Super Polymerization",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 48171151,
+      "limit": 3,
+      "name": "Astrograph Sorcerer, the Star Magician",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 48285768,
+      "limit": 3,
+      "name": "Springans Merrymaker",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 48333324,
+      "limit": 3,
+      "name": "Rank-Up-Magic Numeron Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 48461764,
+      "limit": 3,
+      "name": "Purple Poison Magician",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 48546368,
+      "limit": 3,
+      "name": "Herald of Ultimateness",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 48626373,
+      "limit": 3,
+      "name": "Kashtira Arise-Heart",
+      "points": 97,
+      "source": "genesys"
+    },
+    {
+      "id": 48658295,
+      "limit": 3,
+      "name": "Lady's Dragonmaid",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 48680970,
+      "limit": 3,
+      "name": "Eternal Soul",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 48686504,
+      "limit": 3,
+      "name": "Lonefire Blossom",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 48716527,
+      "limit": 3,
+      "name": "The Monarchs Erupt",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 48739627,
+      "limit": 3,
+      "name": "Theorealize",
+      "points": 2,
+      "source": "custom"
+    },
+    {
+      "id": 48800175,
+      "limit": 3,
+      "name": "The Melody of Awakening Dragon",
+      "points": 25,
+      "source": "genesys"
+    },
+    {
+      "id": 48814566,
+      "limit": 3,
+      "name": "Banquet of Millions",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 48835607,
+      "limit": 3,
+      "name": "Galatea-I, the Orcust Automaton",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 48905153,
+      "limit": 3,
+      "name": "Zoodiac Drident",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 48934760,
+      "limit": 3,
+      "name": "Demise of the Land",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 49238328,
+      "limit": 3,
+      "name": "Pot of Extravagance",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 49299410,
+      "limit": 3,
+      "name": "The Black Goat Laughs",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 49430782,
+      "limit": 3,
+      "name": "True Draco Heritage",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 49522489,
+      "limit": 3,
+      "name": "Beelze Frog",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 49680980,
+      "limit": 3,
+      "name": "Koa'ki Meiru Sandman",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 49684352,
+      "limit": 3,
+      "name": "Double Iris Magician",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 50073633,
+      "limit": 3,
+      "name": "Celtic Mystic",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 50147815,
+      "limit": 3,
+      "name": "Sacred Beasts Combined Assault",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 50251045,
+      "limit": 3,
+      "name": "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 50277355,
+      "limit": 3,
+      "name": "Cross-Sheep",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 50588353,
+      "limit": 3,
+      "name": "Crystron Halqifibrax",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 50720316,
+      "limit": 3,
+      "name": "Elemental HERO Shadow Mist",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 50907446,
+      "limit": 3,
+      "name": "El Shaddoll Apkallone",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 51250293,
+      "limit": 3,
+      "name": "Majespecter Wind",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 51452091,
+      "limit": 3,
+      "name": "Royal Decree",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 51831560,
+      "limit": 3,
+      "name": "Gem-Knight Nepyrim",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 51858306,
+      "limit": 3,
+      "name": "Eclipse Wyvern",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 51869363,
+      "limit": 3,
+      "name": "Superconductive Plasma Blast",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 52038441,
+      "limit": 3,
+      "name": "Ghost Mourner & Moonlit Chill",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 52119435,
+      "limit": 3,
+      "name": "Geonator Transverser",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 52155219,
+      "limit": 3,
+      "name": "Salamangreat Circle",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 52277807,
+      "limit": 3,
+      "name": "Salamangreat Spinny",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 52296675,
+      "limit": 3,
+      "name": "Anchamoufrite",
+      "points": 1,
+      "source": "custom"
+    },
+    {
+      "id": 52335937,
+      "limit": 3,
+      "name": "Exosister Betrayal",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 52350806,
+      "limit": 3,
+      "name": "Danger! Mothman!",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 52553102,
+      "limit": 3,
+      "name": "Jurrac Astero",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 52653092,
+      "limit": 3,
+      "name": "Number S0: Utopic ZEXAL",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 52687916,
+      "limit": 3,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 52782439,
+      "limit": 3,
+      "name": "Exceptional Schedule",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 52840267,
+      "limit": 3,
+      "name": "Darklord Ixchel",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 52945066,
+      "limit": 3,
+      "name": "Marincess Wave",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 52947044,
+      "limit": 3,
+      "name": "Fusion Destiny",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 53129443,
+      "limit": 3,
+      "name": "Dark Hole",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 53334471,
+      "limit": 3,
+      "name": "Gozen Match",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 53589300,
+      "limit": 3,
+      "name": "Nerva the Power Patron of Creation",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 53765052,
+      "limit": 3,
+      "name": "Diabellze the Original Sinkeeper",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 53804307,
+      "limit": 3,
+      "name": "Blaster, Dragon Ruler of Infernos",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 53813120,
+      "limit": 3,
+      "name": "Radiant Typhoon Mandate",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 53829527,
+      "limit": 3,
+      "name": "Crystron Cluster",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 53927851,
+      "limit": 3,
+      "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 53971455,
+      "limit": 3,
+      "name": "Despian Luluwalilith",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 54031490,
+      "limit": 3,
+      "name": "Shien's Smoke Signal",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 54143349,
+      "limit": 3,
+      "name": "Radiant Typhoon Eldam",
+      "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 54447022,
+      "limit": 3,
+      "name": "Soul Charge",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 54458867,
+      "limit": 3,
+      "name": "Squib Draw",
+      "points": 2,
+      "source": "custom"
+    },
+    {
+      "id": 54475145,
+      "limit": 3,
+      "name": "Heart of the Blue-Eyes",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 54498517,
+      "limit": 3,
+      "name": "Gigantic Spright",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 54550967,
+      "limit": 3,
+      "name": "Mementotlan Angwitch",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 54562327,
+      "limit": 3,
+      "name": "Stake your Soul!",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 54577949,
+      "limit": 3,
+      "name": "Witness of the Ancient",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 54693926,
+      "limit": 3,
+      "name": "Dark Ruler No More",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 54701958,
+      "limit": 3,
+      "name": "Lunalight Liger Dancer",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 54719828,
+      "limit": 3,
+      "name": "Number 16: Shock Master",
+      "points": 80,
+      "source": "custom"
+    },
+    {
+      "id": 54878498,
+      "limit": 3,
+      "name": "Kelbek",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 55063751,
+      "limit": 3,
+      "name": "Gameciel, the Sea Turtle Kaiju",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 55144522,
+      "limit": 3,
+      "name": "Pot of Greed",
+      "points": 30,
+      "source": "genesys"
+    },
+    {
+      "id": 55204071,
+      "limit": 3,
+      "name": "Gimmick Puppet Nightmare",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 55273560,
+      "limit": 3,
+      "name": "Incredible Ecclesia, the Virtuous",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 55393975,
+      "limit": 3,
+      "name": "Angelechy Destrier",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 55465441,
+      "limit": 3,
+      "name": "Give and Take",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 55623480,
+      "limit": 3,
+      "name": "Fairy Tail - Snow",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 55920742,
+      "limit": 3,
+      "name": "Noh-P.U.N.K. Foxy Tune",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 56034579,
+      "limit": 3,
+      "name": "GMX Chairman Kimridge",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 56051086,
+      "limit": 3,
+      "name": "Number 43: Manipulator of Souls",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 56100345,
+      "limit": 3,
+      "name": "Cyberdark Wurm",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 56465981,
+      "limit": 3,
+      "name": "Swordsoul Emergence",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 56506740,
+      "limit": 3,
+      "name": "Primite Lordly Lode",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 56651978,
+      "limit": 3,
+      "name": "Elfnote Regina",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 56725612,
+      "limit": 3,
+      "name": "Fairy Tail Ball",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 56733747,
+      "limit": 3,
+      "name": "Elemental HERO Shining Neos Wingman",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 56784842,
+      "limit": 3,
+      "name": "Angel O7",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 56824871,
+      "limit": 3,
+      "name": "Infernoble Knight - Renaud",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 56910167,
+      "limit": 3,
+      "name": "Superdreadnought Rail Cannon Gustav Max",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 57103969,
+      "limit": 3,
+      "name": "Fire Formation - Tenki",
+      "points": 11,
+      "source": "genesys"
+    },
+    {
+      "id": 57160136,
+      "limit": 3,
+      "name": "Cynet Mining",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 57294268,
+      "limit": 3,
+      "name": "Aleister the Reminiscent",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 57314798,
+      "limit": 3,
+      "name": "Number 100: Numeron Dragon",
+      "points": 21,
+      "source": "genesys"
+    },
+    {
+      "id": 57329501,
+      "limit": 3,
+      "name": "Marincess Dive",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 57357130,
+      "limit": 3,
+      "name": "Salamangreat Weasel",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 57416183,
+      "limit": 3,
+      "name": "Dragonmaid Tidying",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 57421866,
+      "limit": 3,
+      "name": "Level Eater",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 57566760,
+      "limit": 3,
+      "name": "Uzuhime the Manifested Mikanko",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 57585212,
+      "limit": 3,
+      "name": "Self-Destruct Button",
+      "points": 40,
+      "source": "custom"
+    },
+    {
+      "id": 57734012,
+      "limit": 3,
+      "name": "Rank-Up-Magic - The Seventh One",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 57847269,
+      "limit": 3,
+      "name": "Clown Crew Matinee Operatics",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 57953380,
+      "limit": 3,
+      "name": "Card of Safe Return",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 58004362,
+      "limit": 3,
+      "name": "Xtra HERO Cross Crusader",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 58053438,
+      "limit": 3,
+      "name": "Songs of the Dominators",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 58069384,
+      "limit": 3,
+      "name": "Cyber Dragon Nova",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 58071334,
+      "limit": 3,
+      "name": "Snake-Eyes Doomed Dragon",
+      "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 58143852,
+      "limit": 3,
+      "name": "Nightmare Apprentice",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 58288218,
+      "limit": 3,
+      "name": "Masked HERO Furnace",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 58481572,
+      "limit": 3,
+      "name": "Masked HERO Dark Law",
+      "points": 70,
+      "source": "genesys"
+    },
+    {
+      "id": 58570206,
+      "limit": 3,
+      "name": "Heavy Polymerization",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 58577036,
+      "limit": 3,
+      "name": "Reasoning",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 58699500,
+      "limit": 3,
+      "name": "Cherubini, Ebon Angel of the Burning Abyss",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 58769832,
+      "limit": 3,
+      "name": "Royal Archfiend",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 58820923,
+      "limit": 3,
+      "name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 58916810,
+      "limit": 3,
+      "name": "Crackle Blitzclique",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 58921041,
+      "limit": 3,
+      "name": "Anti-Spell Fragrance",
+      "points": 90,
+      "source": "custom"
+    },
+    {
+      "id": 58984738,
+      "limit": 3,
+      "name": "Dinomight Knight, the True Dracofighter",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 58988903,
+      "limit": 3,
+      "name": "Rank-Up-Magic Skip Force",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 59123194,
+      "limit": 3,
+      "name": "Enlightenment Paladin",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 59138498,
+      "limit": 3,
+      "name": "Martyr of the Sacred Beasts",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 59305593,
+      "limit": 3,
+      "name": "Mistake",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 59392529,
+      "limit": 3,
+      "name": "Elemental HERO Liquid Soldier",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 59400890,
+      "limit": 3,
+      "name": "Dark Magician of Destruction",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 59438930,
+      "limit": 3,
+      "name": "Ghost Ogre & Snow Rabbit",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 59481082,
+      "limit": 3,
+      "name": "Lightsworn Dragonling",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 59509952,
+      "limit": 3,
+      "name": "Archlord Kristya",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 59537380,
+      "limit": 3,
+      "name": "Guardragon Agarpain",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 59581480,
+      "limit": 3,
+      "name": "Elfnote Tinia",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 59750328,
+      "limit": 3,
+      "name": "Card of Demise",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 59805313,
+      "limit": 3,
+      "name": "Volcanic Rimfire",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 59822133,
+      "limit": 3,
+      "name": "Blue-Eyes Spirit Dragon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 59859086,
+      "limit": 3,
+      "name": "Splash Mage",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 59934749,
+      "limit": 3,
+      "name": "Isolde, Two Tales of the Noble Knights",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 59983249,
+      "limit": 3,
+      "name": "Monarchic Perfection",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 60145298,
+      "limit": 3,
+      "name": "Diabellze the White Witch",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 60228941,
+      "limit": 3,
+      "name": "Snoww, Unlight of Dark World",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 60242223,
+      "limit": 3,
+      "name": "Bystial Saronir",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 60303245,
+      "limit": 3,
+      "name": "Salamangreat Almiraj",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 60303688,
+      "limit": 3,
+      "name": "Dogmatika Ecclesia, the Virtuous",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 60461804,
+      "limit": 3,
+      "name": "Destiny HERO - Destroyer Phoenix Enforcer",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 60465049,
+      "limit": 3,
+      "name": "Psychic End Punisher",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 60600126,
+      "limit": 3,
+      "name": "Cyber Emergency",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 60643553,
+      "limit": 3,
+      "name": "Ghost Sister & Spooky Dogwood",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 60682203,
+      "limit": 3,
+      "name": "Cold Wave",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 60700283,
+      "limit": 3,
+      "name": "Tellarknight Cygnian",
+      "points": 6,
+      "source": "genesys"
+    },
+    {
+      "id": 60764609,
+      "limit": 3,
+      "name": "Fiendsmith Engraver",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 60946049,
+      "limit": 3,
+      "name": "Artmage Graflare",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 60953949,
+      "limit": 3,
+      "name": "Ancient Gear Box",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 60954556,
+      "limit": 3,
+      "name": "Lyrilusc - Sapphire Swallow",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 61049315,
+      "limit": 3,
+      "name": "Naturia Rosewhip",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 61245672,
+      "limit": 3,
+      "name": "Decode Talker Heatsoul",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 61292243,
+      "limit": 3,
+      "name": "EMERGENCY!",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 61345801,
+      "limit": 3,
+      "name": "Void Unleashing",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 61740673,
+      "limit": 3,
+      "name": "Imperial Order",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 61912252,
+      "limit": 3,
+      "name": "Infinitrack Trencher",
+      "points": 4,
+      "source": "custom"
+    },
+    {
+      "id": 61980241,
+      "limit": 3,
+      "name": "Elzette of the White Forest",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 62104532,
+      "limit": 3,
+      "name": "The Phantom Knights' Rank-Up-Magic Requiem",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 62173132,
+      "limit": 3,
+      "name": "Susurrus of the Sinful Spoils",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 62219643,
+      "limit": 3,
+      "name": "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 62242678,
+      "limit": 3,
+      "name": "Hot Red Dragon Archfiend King Calamity",
+      "points": 90,
+      "source": "custom"
+    },
+    {
+      "id": 62318994,
+      "limit": 3,
+      "name": "Samsara D Lotus",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 62320425,
+      "limit": 3,
+      "name": "Agido the Ancient Sentinel",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 62517849,
+      "limit": 3,
+      "name": "Number 39: Utopia Double",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 62709239,
+      "limit": 3,
+      "name": "The Phantom Knights of Break Sword",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 62880279,
+      "limit": 3,
+      "name": "Dodododo Warrior",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 62962630,
+      "limit": 3,
+      "name": "Aluber the Jester of Despia",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 63013339,
+      "limit": 3,
+      "name": "Sky Striker Ace - Camellia",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 63031396,
+      "limit": 3,
+      "name": "Cybernetic Horizon",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 63166095,
+      "limit": 3,
+      "name": "Sky Striker Mobilize - Engage!",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 63198739,
+      "limit": 3,
+      "name": "Primite Dragon Ether Beryl",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 63295720,
+      "limit": 3,
+      "name": "Dragon's Light and Darkness",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 63362460,
+      "limit": 3,
+      "name": "Destiny HERO - Celestial",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 63436931,
+      "limit": 3,
+      "name": "Crimson Dragon",
+      "points": 41,
+      "source": "custom"
+    },
+    {
+      "id": 63504681,
+      "limit": 3,
+      "name": "Number 86: Heroic Champion - Rhongomyniad",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 63542003,
+      "limit": 3,
+      "name": "Keldo the Sacred Protector",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 63767246,
+      "limit": 3,
+      "name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 63789924,
+      "limit": 3,
+      "name": "Smoke Grenade of the Thief",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 63854005,
+      "limit": 3,
+      "name": "Ready Fusion",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 63941210,
+      "limit": 3,
+      "name": "Jizukiru, the Star Destroying Kaiju",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 64049762,
+      "limit": 3,
+      "name": "Blitzclique - Breakaway",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 64061284,
+      "limit": 3,
+      "name": "Ancient Gear Fusion",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 64182380,
+      "limit": 3,
+      "name": "Garunix Eternity, Hyang of the Fire Kings",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 64414267,
+      "limit": 3,
+      "name": "Darktellarknight Batlamyus",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 64591429,
+      "limit": 3,
+      "name": "Astral Kuriboh",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 64603182,
+      "limit": 3,
+      "name": "Ancient Gear Dark Golem",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 64697231,
+      "limit": 3,
+      "name": "Trap Dustshoot",
+      "points": 94,
+      "source": "genesys"
+    },
+    {
+      "id": 64697431,
+      "limit": 3,
+      "name": "Hey, Trunade!",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 64753988,
+      "limit": 3,
+      "name": "Cyberdark Realm",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 64964750,
+      "limit": 3,
+      "name": "Sales Ban",
+      "points": 23,
+      "source": "custom"
+    },
+    {
+      "id": 65261141,
+      "limit": 3,
+      "name": "Nightmare Pain",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 65330383,
+      "limit": 3,
+      "name": "Knightmare Gryphon",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 65504487,
+      "limit": 3,
+      "name": "Toy Soldier",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 65514302,
+      "limit": 3,
+      "name": "Magnet Bonding",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 65536818,
+      "limit": 3,
+      "name": "Denglong, First of the Yang Zing",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 65681983,
+      "limit": 3,
+      "name": "Crossout Designator",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 65734501,
+      "limit": 3,
+      "name": "Rescue-ACE Air Lifter",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 65741786,
+      "limit": 3,
+      "name": "I:P Masquerena",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 65848113,
+      "limit": 3,
+      "name": "DoomZ XIII Over - Graflareio",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 65861210,
+      "limit": 3,
+      "name": "Fallen Paradise of the Sacred Beasts",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 65961304,
+      "limit": 3,
+      "name": "Kewl Tune B2B",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 66011101,
+      "limit": 3,
+      "name": "Number 60: Dugares the Timeless",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 66206748,
+      "limit": 3,
+      "name": "Masked HERO Fountain",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 66236707,
+      "limit": 3,
+      "name": "Gordian Slicer",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 66328392,
+      "limit": 3,
+      "name": "Deception of the Sinful Spoils",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 66384688,
+      "limit": 3,
+      "name": "Majespecter Orthrus - Nue",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 66399653,
+      "limit": 3,
+      "name": "Union Hangar",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 66425726,
+      "limit": 3,
+      "name": "Odd-Eyes Pendulumgraph Dragon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 66431519,
+      "limit": 3,
+      "name": "Sacred Fire King Garunix",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 66722103,
+      "limit": 3,
+      "name": "Thunderclap Monk",
+      "points": 9,
+      "source": "genesys"
+    },
+    {
+      "id": 66730191,
+      "limit": 3,
+      "name": "Sangen Kaimen",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 66816282,
+      "limit": 3,
+      "name": "Koa'ki Meiru Wall",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 66957584,
+      "limit": 3,
+      "name": "Infernity Launcher",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 67115133,
+      "limit": 3,
+      "name": "Radiant Typhoon Chant",
+      "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 67171933,
+      "limit": 3,
+      "name": "Regenesis Code",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 67234805,
+      "limit": 3,
+      "name": "Powersink Stone",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 67378104,
+      "limit": 3,
+      "name": "Celestial Observatory",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 67441435,
+      "limit": 3,
+      "name": "Glow-Up Bulb",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 67517351,
+      "limit": 3,
+      "name": "Hyper Rank-Up-Magic Utopiforce",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 67523044,
+      "limit": 3,
+      "name": "Ground Xeno",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 67584223,
+      "limit": 3,
+      "name": "Tessera the Primal Squire",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 67616300,
+      "limit": 3,
+      "name": "Chicken Game",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 67680512,
+      "limit": 3,
+      "name": "Unchained Soul of Rage",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 67723438,
+      "limit": 3,
+      "name": "Emergency Teleport",
+      "points": 25,
+      "source": "genesys"
+    },
+    {
+      "id": 67748760,
+      "limit": 3,
+      "name": "Absorouter Dragon",
+      "points": 4,
+      "source": "custom"
+    },
+    {
+      "id": 67803035,
+      "limit": 3,
+      "name": "Reincarnation of the Unchained",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 67809530,
+      "limit": 3,
+      "name": "The Crimson King",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 68059897,
+      "limit": 3,
+      "name": "Maliss <Q> Red Ransom",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 68144894,
+      "limit": 3,
+      "name": "Hecahands Godos",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 68199168,
+      "limit": 3,
+      "name": "Harr, Generaider Boss of Storms",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 68304193,
+      "limit": 3,
+      "name": "Kashtira Unicorn",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 68392533,
+      "limit": 3,
+      "name": "Telekinetic Charging Cell",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 68431965,
+      "limit": 3,
+      "name": "Shooting Riser Dragon",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 68462976,
+      "limit": 3,
+      "name": "Secret Village of the Spellcasters",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 68464358,
+      "limit": 3,
+      "name": "Rokket Tracer",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 68468459,
+      "limit": 3,
+      "name": "Fallen of Albaz",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 68625623,
+      "limit": 3,
+      "name": "Unchained Malevolent Magistrate Kamura",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 68937720,
+      "limit": 3,
+      "name": "Mind Drain",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 69003792,
+      "limit": 3,
+      "name": "Megalith Unformed",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 69015963,
+      "limit": 3,
+      "name": "Cyber-Stein",
+      "points": 27,
+      "source": "genesys"
+    },
+    {
+      "id": 69073023,
+      "limit": 3,
+      "name": "Infinitrack Fortress Megaclops",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 69087397,
+      "limit": 3,
+      "name": "Floowandereeze and the Advent of Adventure",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 69164989,
+      "limit": 3,
+      "name": "Rikka Glamour",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 69170557,
+      "limit": 3,
+      "name": "Number C40: Gimmick Puppet of Dark Strings",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 69243953,
+      "limit": 3,
+      "name": "Butterfly Dagger - Elma",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 69248256,
+      "limit": 3,
+      "name": "Swordsoul Grandmaster - Chixiao",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 69272449,
+      "limit": 3,
+      "name": "Maliss <P> White Rabbit",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 69299029,
+      "limit": 3,
+      "name": "Treasures of the Kings",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 69601012,
+      "limit": 3,
+      "name": "Berfomet the Mythical King of Phantom Beasts",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 69678646,
+      "limit": 3,
+      "name": "Stellarnova Binding",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 69925461,
+      "limit": 3,
+      "name": "Toy Tank",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 70088809,
+      "limit": 3,
+      "name": "Fydraulis Harmonia",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 70147689,
+      "limit": 3,
+      "name": "Ancient Gear Fortress",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 70368879,
+      "limit": 3,
+      "name": "Upstart Goblin",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 70369116,
+      "limit": 3,
+      "name": "Predaplant Verte Anaconda",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 70534340,
+      "limit": 3,
+      "name": "Lubellion the Searing Dragon",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 70538272,
+      "limit": 3,
+      "name": "Filia Regis",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 70576413,
+      "limit": 3,
+      "name": "D/D/D First King Clovis",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 70636044,
+      "limit": 3,
+      "name": "Varudras, the Final Bringer of the End Times",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 70711847,
+      "limit": 3,
+      "name": "Danger! Nessie!",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 70791313,
+      "limit": 3,
+      "name": "Royal Magical Library",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 70828912,
+      "limit": 3,
+      "name": "Premature Burial",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 71068247,
+      "limit": 3,
+      "name": "Totem Bird",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 71166481,
+      "limit": 3,
+      "name": "Number 75: Bamboozling Gossip Shadow",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 71398055,
+      "limit": 3,
+      "name": "D/D/D/D Dimensional King Arc Crisis",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 71564252,
+      "limit": 3,
+      "name": "Thunder King Rai-Oh",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 71612253,
+      "limit": 3,
+      "name": "D/D/D Marksman King Tell",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 71645242,
+      "limit": 3,
+      "name": "Black Garden",
+      "points": 51,
+      "source": "genesys"
+    },
+    {
+      "id": 71650854,
+      "limit": 3,
+      "name": "Magical Mid-Breaker Field",
+      "points": 60,
+      "source": "genesys"
+    },
+    {
+      "id": 71734607,
+      "limit": 3,
+      "name": "Rikka Petal",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 71832012,
+      "limit": 3,
+      "name": "Pressured Planet Wraitsoth",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 71858682,
+      "limit": 3,
+      "name": "Centur-Ion Auxila",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 72060415,
+      "limit": 3,
+      "name": "Deep Sea Aria",
+      "points": 12,
+      "source": "genesys"
+    },
+    {
+      "id": 72181263,
+      "limit": 3,
+      "name": "D/D Orthros",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 72270339,
+      "limit": 3,
+      "name": "Diabellstar the Black Witch",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 72323266,
+      "limit": 3,
+      "name": "Earthbound Prisoner Stone Sweeper",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 72329844,
+      "limit": 3,
+      "name": "Spright Sprind",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 72330894,
+      "limit": 3,
+      "name": "Simorgh, Bird of Sovereignty",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 72537897,
+      "limit": 3,
+      "name": "Obedience Schooled",
+      "points": 40,
+      "source": "genesys"
+    },
+    {
+      "id": 72634965,
+      "limit": 3,
+      "name": "Vanity's Ruler",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 72656408,
+      "limit": 3,
+      "name": "Bystial Baldrake",
+      "points": 30,
+      "source": "genesys"
+    },
+    {
+      "id": 72892473,
+      "limit": 3,
+      "name": "Card Destruction",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 73082255,
+      "limit": 3,
+      "name": "The Zombie Vampire",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 73206827,
+      "limit": 3,
+      "name": "Light Barrier",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 73218792,
+      "limit": 3,
+      "name": "Junk Meister",
+      "points": 6,
+      "source": "genesys"
+    },
+    {
+      "id": 73218989,
+      "limit": 3,
+      "name": "Black-Winged Assault Dragon",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 73345237,
+      "limit": 3,
+      "name": "Benghalancer the Resurgent",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 73356503,
+      "limit": 3,
+      "name": "Barrier Statue of the Stormwinds",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 73391962,
+      "limit": 3,
+      "name": "Azamina Mu Rcielago",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 73452089,
+      "limit": 3,
+      "name": "Dark Cavalry",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 73468603,
+      "limit": 3,
+      "name": "Set Rotation",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 73539069,
+      "limit": 3,
+      "name": "Striker Dragon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 73599290,
+      "limit": 3,
+      "name": "Soul Drain",
+      "points": 27,
+      "source": "custom"
+    },
+    {
+      "id": 73628505,
+      "limit": 3,
+      "name": "Terraforming",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 73639099,
+      "limit": 3,
+      "name": "Traptrix Sera",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 73642296,
+      "limit": 3,
+      "name": "Ghost Belle & Haunted Mansion",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 73819701,
+      "limit": 3,
+      "name": "Fallen of the White Dragon",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 73898890,
+      "limit": 3,
+      "name": "Dyna Mondo",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 73941492,
+      "limit": 3,
+      "name": "Harmonizing Magician",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 73956664,
+      "limit": 3,
+      "name": "Tearlaments Reinoheart",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 74011784,
+      "limit": 3,
+      "name": "Artmage Varnish -Alteration-",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 74069667,
+      "limit": 3,
+      "name": "D/D/D Oblivion King Abyss Ragnarok",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 74078255,
+      "limit": 3,
+      "name": "Tearlaments Merrli",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 74117290,
+      "limit": 3,
+      "name": "Dark World Dealings",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 74191942,
+      "limit": 3,
+      "name": "Painful Choice",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 74203495,
+      "limit": 3,
+      "name": "PSY-Framegear Delta",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 74311226,
+      "limit": 3,
+      "name": "Atlantean Dragoons",
+      "points": 40,
+      "source": "genesys"
+    },
+    {
+      "id": 74393852,
+      "limit": 3,
+      "name": "Zoodiac Boarbow",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 74405783,
+      "limit": 3,
+      "name": "The Three Champions of Swordsoul",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 74586817,
+      "limit": 3,
+      "name": "PSY-Framelord Omega",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 74615388,
+      "limit": 3,
+      "name": "Laevatein, Generaider Boss of Shadows",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 74631897,
+      "limit": 3,
+      "name": "Artmage Non-Finito",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 74733322,
+      "limit": 3,
+      "name": "Artmage Academic Arcane Arts Acropolis",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 74820316,
+      "limit": 3,
+      "name": "Enlilgirsu, the Orcust Mekk-Knight",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 74850403,
+      "limit": 3,
+      "name": "Star Pendulumgraph",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 74875003,
+      "limit": 3,
+      "name": "Ra's Disciple",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 74997493,
+      "limit": 3,
+      "name": "Saryuja Skull Dread",
+      "points": 27,
+      "source": "custom"
+    },
+    {
+      "id": 75003700,
+      "limit": 3,
+      "name": "Dracotail Lukias",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 75046994,
+      "limit": 3,
+      "name": "Noh-P.U.N.K. Rising Scale",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 75433814,
+      "limit": 3,
+      "name": "Number 40: Gimmick Puppet of Strings",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 75500286,
+      "limit": 3,
+      "name": "Gold Sarcophagus",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 76072561,
+      "limit": 3,
+      "name": "Sky Striker Ace = Zero",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 76375976,
+      "limit": 3,
+      "name": "Mystic Mine",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 76473843,
+      "limit": 3,
+      "name": "Majesty's Pegasus",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 76666602,
+      "limit": 3,
+      "name": "The Dragon that Devours the Dogma",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 76672730,
+      "limit": 3,
+      "name": "Dark World Archives",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 76721030,
+      "limit": 3,
+      "name": "Tyrant's Tirade",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 76794549,
+      "limit": 3,
+      "name": "Astrograph Sorcerer",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 76815942,
+      "limit": 3,
+      "name": "Lyrilusc - Independent Nightingale",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 76981308,
+      "limit": 3,
+      "name": "Melffy Staring Contest",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 77075360,
+      "limit": 3,
+      "name": "Junk Speeder",
+      "points": 63,
+      "source": "custom"
+    },
+    {
+      "id": 77103950,
+      "limit": 3,
+      "name": "Primeval Planet Perlereino",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 77189532,
+      "limit": 3,
+      "name": "Rokket Coder",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 77202120,
+      "limit": 3,
+      "name": "Assault Synchron",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 77207191,
+      "limit": 3,
+      "name": "Berfomet",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 77235086,
+      "limit": 3,
+      "name": "Cyber Angel Benten",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 77313225,
+      "limit": 3,
+      "name": "Rciela, Sinister Soul of the White Forest",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 77402960,
+      "limit": 3,
+      "name": "Numeron Calling",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 77584012,
+      "limit": 3,
+      "name": "Pseudo Space",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 77675029,
+      "limit": 3,
+      "name": "Exosister Karmael",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 77765207,
+      "limit": 3,
+      "name": "Emblema Oath",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 77891946,
+      "limit": 3,
+      "name": "Exosister Vadis",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 77913594,
+      "limit": 3,
+      "name": "Exosister Pax",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 78058681,
+      "limit": 3,
+      "name": "Kewl Tune Synchro",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 78114463,
+      "limit": 3,
+      "name": "Solemn Accusation",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 78135071,
+      "limit": 3,
+      "name": "Exosister Kaspitell",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 78397661,
+      "limit": 3,
+      "name": "Ecclesia and the Dark Dragon",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 78420796,
+      "limit": 3,
+      "name": "Dinomorphia Frenzy",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 78449284,
+      "limit": 3,
+      "name": "The Phantom Knights of Malevolent Scythe",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 78543464,
+      "limit": 3,
+      "name": "Kuji-Kiri Curse",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 78625448,
+      "limit": 3,
+      "name": "Number 3: Numeron Gate Trini",
+      "points": 0,
+      "source": "custom"
+    },
+    {
+      "id": 78661338,
+      "limit": 3,
+      "name": "Fantastical Dragon Phantazmay",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 78706415,
+      "limit": 3,
+      "name": "Fiber Jar",
+      "points": 30,
+      "source": "genesys"
+    },
+    {
+      "id": 78872731,
+      "limit": 3,
+      "name": "Zoodiac Ratpier",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 79109599,
+      "limit": 3,
+      "name": "King of the Swamp",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 79126789,
+      "limit": 3,
+      "name": "Broww, Huntsman of Dark World",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 79210531,
+      "limit": 3,
+      "name": "Tellarknight Lyran",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 79415624,
+      "limit": 3,
+      "name": "Snake-Eyes Vengeance Dragon",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 79559912,
+      "limit": 3,
+      "name": "D/D/D Wave High King Caesar",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 79571449,
+      "limit": 3,
+      "name": "Graceful Charity",
+      "points": 40,
+      "source": "genesys"
+    },
+    {
+      "id": 79606837,
+      "limit": 3,
+      "name": "Herald of the Arc Light",
+      "points": 40,
+      "source": "custom"
+    },
+    {
+      "id": 79613121,
+      "limit": 3,
+      "name": "Magician of Black Chaos MAX",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 79747096,
+      "limit": 3,
+      "name": "Number C1: Numeron Chaos Gate Sunya",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 79933029,
+      "limit": 3,
+      "name": "Purrelyly",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 80101899,
+      "limit": 3,
+      "name": "Trap Trick",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 80181649,
+      "limit": 3,
+      "name": "\"A Case for K9\"",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 80312545,
+      "limit": 3,
+      "name": "Opening of the Spirit Gates",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 80326401,
+      "limit": 3,
+      "name": "Wishes for Eyes of Blue",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 80441106,
+      "limit": 3,
+      "name": "Keldo",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 80453041,
+      "limit": 3,
+      "name": "Phantom of Yubel",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 80532587,
+      "limit": 3,
+      "name": "Elder Entity N'tss",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 80565021,
+      "limit": 3,
+      "name": "Angelechy Opening to e4",
+      "points": 81,
+      "source": "custom"
+    },
+    {
+      "id": 80611581,
+      "limit": 3,
+      "name": "Floowandereeze & Empen",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 80722024,
+      "limit": 3,
+      "name": "Mementotlan Bone Party",
+      "points": 17,
+      "source": "custom"
+    },
+    {
+      "id": 80845034,
+      "limit": 3,
+      "name": "WANTED: Seeker of Sinful Spoils",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 80870883,
+      "limit": 3,
+      "name": "Red-Eyes Black Fullmetal Dragon",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 80978111,
+      "limit": 3,
+      "name": "Flying \"C\"",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 81034083,
+      "limit": 3,
+      "name": "Dark Beckoning Beast",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 81101309,
+      "limit": 3,
+      "name": "Night Train Blue Traveler",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 81122844,
+      "limit": 3,
+      "name": "Wind-Up Carrier Zenmaity",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 81260679,
+      "limit": 3,
+      "name": "Ohime the Manifested Mikanko",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 81275020,
+      "limit": 3,
+      "name": "Speedroid Terrortop",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 81275309,
+      "limit": 3,
+      "name": "General Raiho of the Ice Barrier",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 81439173,
+      "limit": 3,
+      "name": "Foolish Burial",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 81497285,
+      "limit": 3,
+      "name": "Lady Labrynth of the Silver Castle",
+      "points": 40,
+      "source": "genesys"
+    },
+    {
+      "id": 81560239,
+      "limit": 3,
+      "name": "Mitsurugi Ritual",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 81674782,
+      "limit": 3,
+      "name": "Dimensional Fissure",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 81866673,
+      "limit": 3,
+      "name": "Destiny HERO - Dasher",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 82105704,
+      "limit": 3,
+      "name": "Purrely Happy Memory",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 82108372,
+      "limit": 3,
+      "name": "Mudora",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 82112494,
+      "limit": 3,
+      "name": "Superheavy Samurai Prodigy Wakaushi",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 82135803,
+      "limit": 3,
+      "name": "Fiendsmith's Desirae",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 82159583,
+      "limit": 3,
+      "name": "Clown Crew Biancaviso",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 82344137,
+      "limit": 3,
+      "name": "Phara the Primordial Goddess",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 82385847,
+      "limit": 3,
+      "name": "Dinowrestler Pankratops",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 82562802,
+      "limit": 3,
+      "name": "Cyberdark Claw",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 82697249,
+      "limit": 3,
+      "name": "Number 59: Crooked Cook",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 82732705,
+      "limit": 3,
+      "name": "Skill Drain",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 82997779,
+      "limit": 3,
+      "name": "Archfiend's Usurpation",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 83152482,
+      "limit": 3,
+      "name": "Union Carrier",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 83232904,
+      "limit": 3,
+      "name": "Clown Crew Malabarisme",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 83257450,
+      "limit": 3,
+      "name": "The Unstoppable Exodia Incarnate",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 83266006,
+      "limit": 3,
+      "name": "Ghost Meets Girl - A Mayakashi's Manuscript",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 83303851,
+      "limit": 3,
+      "name": "D/D/D Chaos King Apocalypse",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 83326048,
+      "limit": 3,
+      "name": "Dimensional Barrier",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 83334932,
+      "limit": 3,
+      "name": "Superheavy Samurai Motorbike",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 83518674,
+      "limit": 3,
+      "name": "Danger! Ogopogo!",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 83566725,
+      "limit": 3,
+      "name": "The Phantom Knights of Doomed Soleret",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 83610035,
+      "limit": 3,
+      "name": "Therion \"Lily\" Borea",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 83764719,
+      "limit": 3,
+      "name": "Monster Reborn",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 83827392,
+      "limit": 3,
+      "name": "Expurrely Noir",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 83838727,
+      "limit": 3,
+      "name": "Sandwich Day",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 83965310,
+      "limit": 3,
+      "name": "Destiny HERO - Plasma",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 84025439,
+      "limit": 3,
+      "name": "Super Quantal Mech King Great Magnus",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 84058253,
+      "limit": 3,
+      "name": "Chimeratech Rampage Dragon",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 84171830,
+      "limit": 3,
+      "name": "Domain of the True Monarchs",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 84192580,
+      "limit": 3,
+      "name": "Mulcharmy Purulia",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 84206435,
+      "limit": 3,
+      "name": "Medallion of the Ice Barrier",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 84211599,
+      "limit": 3,
+      "name": "Pot of Prosperity",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 84288367,
+      "limit": 3,
+      "name": "Aiwass, Divine Spirit of the Law",
+      "points": 2,
+      "source": "genesys"
+    },
+    {
+      "id": 84478195,
+      "limit": 3,
+      "name": "Barrier Statue of the Abyss",
+      "points": 70,
+      "source": "genesys"
+    },
+    {
+      "id": 84550369,
+      "limit": 3,
+      "name": "Mikanko Shinbu - Noble Twins",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 84636823,
+      "limit": 3,
+      "name": "Spell Canceller",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 84673574,
+      "limit": 3,
+      "name": "QQ Enneagon",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 84731222,
+      "limit": 3,
+      "name": "Memories of Hope",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 84749824,
+      "limit": 3,
+      "name": "Solemn Warning",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 84797028,
+      "limit": 3,
+      "name": "Clockwork Night",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 84815190,
+      "limit": 3,
+      "name": "Baronne de Fleur",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 84941194,
+      "limit": 3,
+      "name": "Imsety, Glory of Horus",
+      "points": 41,
+      "source": "custom"
+    },
+    {
+      "id": 85065943,
+      "limit": 3,
+      "name": "Saint Azamina",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 85106525,
+      "limit": 3,
+      "name": "Bonfire",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 85115440,
+      "limit": 3,
+      "name": "Zoodiac Broadbull",
+      "points": 41,
+      "source": "custom"
+    },
+    {
+      "id": 85243784,
+      "limit": 3,
+      "name": "Linkross",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 85250352,
+      "limit": 3,
+      "name": "Volcanic Blaze Accelerator",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 85257384,
+      "limit": 3,
+      "name": "The Phantom Knights of Umbrage Veil",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 85315450,
+      "limit": 3,
+      "name": "Radiant Typhoon Fonix, the Great Flame",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 85442146,
+      "limit": 3,
+      "name": "Dragon's Mind",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 85523502,
+      "limit": 3,
+      "name": "Whisker Blitzclique",
+      "points": 6,
+      "source": "genesys"
+    },
+    {
+      "id": 85602018,
+      "limit": 3,
+      "name": "Last Will",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 85668449,
+      "limit": 3,
+      "name": "Brain Research Lab",
+      "points": 63,
+      "source": "custom"
+    },
+    {
+      "id": 85692042,
+      "limit": 3,
+      "name": "Primathmech Alembertian",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 85747929,
+      "limit": 3,
+      "name": "Galaxy Photon Dragon",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 85852291,
+      "limit": 3,
+      "name": "Magical Mallet",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 85976588,
+      "limit": 3,
+      "name": "Elfnote Fortuna",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 86066372,
+      "limit": 3,
+      "name": "Accesscode Talker",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 86099788,
+      "limit": 3,
+      "name": "The Last Warrior from Another Planet",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 86132414,
+      "limit": 3,
+      "name": "Abyss of the Sacred Beasts",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 86148577,
+      "limit": 3,
+      "name": "Guardragon Elpy",
+      "points": 80,
+      "source": "custom"
+    },
+    {
+      "id": 86165817,
+      "limit": 3,
+      "name": "Evil HERO Malicious Bane",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 86196216,
+      "limit": 3,
+      "name": "Rank-Up-Magic Doom Double Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 86346643,
+      "limit": 3,
+      "name": "Rainbow Neos",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 86541496,
+      "limit": 3,
+      "name": "Left Arm Offering",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 86809440,
+      "limit": 3,
+      "name": "Mimighoul Dungeon",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 86937530,
+      "limit": 3,
+      "name": "Fairy Tail - Luna",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 87126721,
+      "limit": 3,
+      "name": "Mulcharmy Meowls",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 87170768,
+      "limit": 3,
+      "name": "Contact \"C\"",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 87602890,
+      "limit": 3,
+      "name": "Zaborg the Mega Monarch",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 87639778,
+      "limit": 3,
+      "name": "Harpie's Feather Storm",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 87746184,
+      "limit": 3,
+      "name": "Albion the Branded Dragon",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 87758525,
+      "limit": 3,
+      "name": "Favorite HERO Shining Flare Wingman",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 88071625,
+      "limit": 3,
+      "name": "The Tyrant Neptune",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 88225269,
+      "limit": 3,
+      "name": "Gem-Knight Hollowcore",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 88504133,
+      "limit": 3,
+      "name": "Phantom Knights' Rank-Up-Magic Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 88570003,
+      "limit": 3,
+      "name": "Dark Magician, the Pharaoh's Servant",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 88581108,
+      "limit": 3,
+      "name": "True King of All Calamities",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 88917691,
+      "limit": 3,
+      "name": "Gagagaga Girl",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 89023486,
+      "limit": 3,
+      "name": "Original Sinful Spoils - Snake-Eye",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 89208725,
+      "limit": 3,
+      "name": "Metaverse",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 89392810,
+      "limit": 3,
+      "name": "Kewl Tune Reco",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 89399912,
+      "limit": 3,
+      "name": "Tempest, Dragon Ruler of Storms",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 89693655,
+      "limit": 3,
+      "name": "Subspace Battle",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 89875646,
+      "limit": 3,
+      "name": "Triple Borrel Launch",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 89997728,
+      "limit": 3,
+      "name": "Toon Table of Contents",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 90050480,
+      "limit": 3,
+      "name": "Elemental HERO Cosmo Neos",
+      "points": 21,
+      "source": "genesys"
+    },
+    {
+      "id": 90241276,
+      "limit": 3,
+      "name": "Snake-Eyes Poplar",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 90303227,
+      "limit": 3,
+      "name": "K9-X \"Werewolf\"",
+      "points": 10,
+      "source": "genesys"
+    },
+    {
+      "id": 90361010,
+      "limit": 3,
+      "name": "Superheavy Samurai Soulpiercer",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 90411554,
+      "limit": 3,
+      "name": "Redox, Dragon Ruler of Boulders",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 90448279,
+      "limit": 3,
+      "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 90590303,
+      "limit": 3,
+      "name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 90681088,
+      "limit": 3,
+      "name": "Legendary Fire King Ponix",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 90711610,
+      "limit": 3,
+      "name": "Goblin Biker Grand Entrance",
+      "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 90807199,
+      "limit": 3,
+      "name": "Danger! Thunderbird!",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 90809975,
+      "limit": 3,
+      "name": "Toadally Awesome",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 90829280,
+      "limit": 3,
+      "name": "Spirit of Yubel",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 90846359,
+      "limit": 3,
+      "name": "Rivalry of Warlords",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 90953320,
+      "limit": 3,
+      "name": "T.G. Hyper Librarian",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 91025875,
+      "limit": 3,
+      "name": "K9-ØØ Lupis",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 91110378,
+      "limit": 3,
+      "name": "Star Seraph Sovereignty",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 91623717,
+      "limit": 3,
+      "name": "Chain Strike",
+      "points": 50,
+      "source": "genesys"
+    },
+    {
+      "id": 91749600,
+      "limit": 3,
+      "name": "Vala, Seidhr of the Generaider Bosses",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 91800273,
+      "limit": 3,
+      "name": "Dimension Shifter",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 91810826,
+      "limit": 3,
+      "name": "Tenpai Dragon Chundra",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 92248362,
+      "limit": 3,
+      "name": "K9-17 Izuna",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 92332424,
+      "limit": 3,
+      "name": "Majesty Pegasus, the Dracoslayer",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 92359409,
+      "limit": 3,
+      "name": "Superdreadnought Rail Cannon Gustav Rocket",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 92365601,
+      "limit": 3,
+      "name": "Rank-Up-Magic Limited Barian's Force",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 92501449,
+      "limit": 3,
+      "name": "Primite Roar",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 92512625,
+      "limit": 3,
+      "name": "Solemn Scolding",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 92519087,
+      "limit": 3,
+      "name": "Virtual World Kyubi - Shenshen",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 92565383,
+      "limit": 3,
+      "name": "Cornfield Coatl",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 92714517,
+      "limit": 3,
+      "name": "Big Welcome Labrynth",
+      "points": 15,
+      "source": "genesys"
+    },
+    {
+      "id": 92731385,
+      "limit": 3,
+      "name": "Tearlaments Kitkallos",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 92798873,
+      "limit": 3,
+      "name": "Dinomorphia Rexterm",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 92812851,
+      "limit": 3,
+      "name": "Exceed the Pendulum",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 92907248,
+      "limit": 3,
+      "name": "Wake Up Centur-Ion!",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 92919429,
+      "limit": 3,
+      "name": "Diviner of the Herald",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 93016201,
+      "limit": 3,
+      "name": "Royal Oppression",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 93039339,
+      "limit": 3,
+      "name": "Super Starslayer TY-PHON - Sky Crisis",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 93053159,
+      "limit": 3,
+      "name": "Alba System Dogmatikalamity",
+      "points": 80,
+      "source": "custom"
+    },
+    {
+      "id": 93125329,
+      "limit": 3,
+      "name": "Golden Cloud Beast - Malong",
+      "points": 4,
+      "source": "genesys"
+    },
+    {
+      "id": 93156774,
+      "limit": 3,
+      "name": "Vanquish Soul Hollie Sue",
+      "points": 41,
+      "source": "custom"
+    },
+    {
+      "id": 93170499,
+      "limit": 3,
+      "name": "Jurrac Megalo",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 93369354,
+      "limit": 3,
+      "name": "Fishborg Blaster",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 93454062,
+      "limit": 3,
+      "name": "Naturia Mole Cricket",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 93490856,
+      "limit": 3,
+      "name": "Swordsoul Strategist Longyuan",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 93600443,
+      "limit": 3,
+      "name": "Mask Change II",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 93723936,
+      "limit": 3,
+      "name": "Scourge of the White Forest",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 93729896,
+      "limit": 3,
+      "name": "Nightmare Throne",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 93854893,
+      "limit": 3,
+      "name": "Dingirsu, the Orcust of the Evening Star",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 93896655,
+      "limit": 3,
+      "name": "Sunavalon Dryas",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 93898740,
+      "limit": 3,
+      "name": "Unchained Syncretism",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 93946239,
+      "limit": 3,
+      "name": "Into the Void",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 94014327,
+      "limit": 3,
+      "name": "Unchained Enma Lord Yama",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 94145021,
+      "limit": 3,
+      "name": "Droll & Lock Bird",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 94183877,
+      "limit": 3,
+      "name": "Loptr, Shadow of the Generaider Bosses",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 94187078,
+      "limit": 3,
+      "name": "Drytron Nova",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 94220427,
+      "limit": 3,
+      "name": "Rank-Up-Magic Argent Chaos Force",
+      "points": 5,
+      "source": "genesys"
+    },
+    {
+      "id": 94410955,
+      "limit": 3,
+      "name": "Hecahands Xeno",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 94689206,
+      "limit": 3,
+      "name": "Block Dragon",
+      "points": 33,
+      "source": "genesys"
+    },
+    {
+      "id": 94689635,
+      "limit": 3,
+      "name": "Herald of Purple Light",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 94845588,
+      "limit": 3,
+      "name": "The Hallowed Azamina",
+      "points": 9,
+      "source": "custom"
+    },
+    {
+      "id": 94886282,
+      "limit": 3,
+      "name": "Charge of the Light Brigade",
+      "points": 25,
+      "source": "genesys"
+    },
+    {
+      "id": 94977269,
+      "limit": 3,
+      "name": "El Shaddoll Winda",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 95113856,
+      "limit": 3,
+      "name": "Phantom Fortress Enterblathnir",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 95134948,
+      "limit": 3,
+      "name": "Number 99: Utopia Dragonar",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 95136979,
+      "limit": 3,
+      "name": "Unchained Ogre Shara",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 95308449,
+      "limit": 3,
+      "name": "Final Countdown",
+      "points": 25,
+      "source": "custom"
+    },
+    {
+      "id": 95365081,
+      "limit": 3,
+      "name": "Hecahands Ibtel",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 95474755,
+      "limit": 3,
+      "name": "Number 89: Diablosis the Mind Hacker",
+      "points": 85,
+      "source": "genesys"
+    },
+    {
+      "id": 95492061,
+      "limit": 3,
+      "name": "Manju of the Ten Thousand Hands",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 95515789,
+      "limit": 3,
+      "name": "Blazing Cartesia, the Virtuous",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 95718355,
+      "limit": 3,
+      "name": "Regenesis Archfiend",
+      "points": 18,
+      "source": "custom"
+    },
+    {
+      "id": 95727991,
+      "limit": 3,
+      "name": "Catapult Turtle",
+      "points": 100,
+      "source": "genesys"
+    },
+    {
+      "id": 96142517,
+      "limit": 3,
+      "name": "Rank-Up-Magic Admiration of the Thousands",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 96345184,
+      "limit": 3,
+      "name": "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+      "points": 66,
+      "source": "custom"
+    },
+    {
+      "id": 96402918,
+      "limit": 3,
+      "name": "Lancea, Ancestral Dragon of the Ice Mountain",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 96540807,
+      "limit": 3,
+      "name": "Regenesis Warrior",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 96633955,
+      "limit": 3,
+      "name": "Swordsoul Supreme Sovereign - Chengying",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 96729612,
+      "limit": 3,
+      "name": "Preparation of Rites",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 96782886,
+      "limit": 3,
+      "name": "Mind Master",
+      "points": 1,
+      "source": "genesys"
+    },
+    {
+      "id": 96789758,
+      "limit": 3,
+      "name": "Aromage Jasmine",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 97045737,
+      "limit": 3,
+      "name": "Dominus Purge",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 97051536,
+      "limit": 3,
+      "name": "Infernoid Evil",
+      "points": 7,
+      "source": "genesys"
+    },
+    {
+      "id": 97120394,
+      "limit": 3,
+      "name": "Anti-Magic Arrows",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 97148796,
+      "limit": 3,
+      "name": "Drytron Alpha Thuban",
+      "points": 8,
+      "source": "custom"
+    },
+    {
+      "id": 97268402,
+      "limit": 3,
+      "name": "Effect Veiler",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 97403510,
+      "limit": 3,
+      "name": "Number 92: Heart-eartH Dragon",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 97462632,
+      "limit": 3,
+      "name": "Griffoh",
+      "points": 51,
+      "source": "custom"
+    },
+    {
+      "id": 97526666,
+      "limit": 3,
+      "name": "Planet Pathfinder",
+      "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 97556336,
+      "limit": 3,
+      "name": "Medius the Pure",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 97631303,
+      "limit": 3,
+      "name": "Magicians' Souls",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 97864322,
+      "limit": 3,
+      "name": "Emperor Charles the Great",
+      "points": 20,
+      "source": "custom"
+    },
+    {
+      "id": 97949165,
+      "limit": 3,
+      "name": "Lyrilusc - Turquoise Warbler",
+      "points": 3,
+      "source": "genesys"
+    },
+    {
+      "id": 97973387,
+      "limit": 3,
+      "name": "Droll Bird",
+      "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 98007437,
+      "limit": 3,
+      "name": "Knight Armed Dragon, the Armored Knight Dragon",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 98022050,
+      "limit": 3,
+      "name": "Animadorned Archosaur",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 98095162,
+      "limit": 3,
+      "name": "Curious, the Lightsworn Dominion",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 98287529,
+      "limit": 3,
+      "name": "Amorphactor Pain, the Imagination Dracoverlord",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 98338152,
+      "limit": 3,
+      "name": "Sky Striker Mecha - Widow Anchor",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 98385955,
+      "limit": 3,
+      "name": "Silvy of the White Forest",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 98476659,
+      "limit": 3,
+      "name": "Pot of Sloth",
+      "points": 100,
+      "source": "custom"
+    },
+    {
+      "id": 98477480,
+      "limit": 3,
+      "name": "Barrier of the Voiceless Voice",
+      "points": 6,
+      "source": "custom"
+    },
+    {
+      "id": 98630720,
+      "limit": 3,
+      "name": "Borrelend Dragon",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 98645731,
+      "limit": 3,
+      "name": "Pot of Duality",
+      "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 98684220,
+      "limit": 3,
+      "name": "Black Chaos",
+      "points": 20,
+      "source": "genesys"
+    },
+    {
+      "id": 98829635,
+      "limit": 3,
+      "name": "Forbidden Crown",
+      "points": 50,
+      "source": "custom"
+    },
+    {
+      "id": 98931282,
+      "limit": 3,
+      "name": "Destiny HERO - Dreadnought Servant",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 99153051,
+      "limit": 3,
+      "name": "Ragnaraika the Evil Seed",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 99243014,
+      "limit": 3,
+      "name": "Synchro Overtake",
+      "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 99266988,
+      "limit": 3,
+      "name": "Chaos Space",
+      "points": 13,
+      "source": "genesys"
+    },
+    {
+      "id": 99289828,
+      "limit": 3,
+      "name": "Tales of the White Forest",
+      "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 99311889,
+      "limit": 3,
+      "name": "Prohibitive Power Patron Purview - Vilaea",
+      "points": 11,
+      "source": "custom"
+    },
+    {
+      "id": 99471856,
+      "limit": 3,
+      "name": "Crystron Tristaros",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 99745551,
+      "limit": 3,
+      "name": "Danger!? Tsuchinoko?",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 99916754,
+      "limit": 3,
+      "name": "Naturia Exterio",
+      "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 99937011,
+      "limit": 3,
+      "name": "Mudora the Sword Oracle",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 101402021,
+      "limit": 3,
+      "name": "Destiny HERO - Death Dogma",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 101402022,
+      "limit": 3,
+      "name": "Destiny HERO - Doom Liege",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 101402037,
+      "limit": 3,
+      "name": "Destiny HERO - Dreadnought",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 101402061,
+      "limit": 3,
+      "name": "Ars Magna - \"Citrinitas\"",
+      "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 101402068,
+      "limit": 3,
+      "name": "Spatial Trunade",
+      "points": 100,
+      "source": "custom"
+    }
+  ],
+  "expires_at": "2027-03-14T10:51:08Z",
+  "format_version": 1,
+  "generated_at": "2026-09-15T10:51:08Z",
+  "license": "Point List \"Formato GSY CustomIgnis\""
+}
