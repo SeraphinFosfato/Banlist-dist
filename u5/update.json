@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "name": "edopro-custom-linux-x64.zip",
+      "sha256": "659a3b509a907166b4f1c12cfb43649d7380cf20ed82d1350b53ade4f096728a",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.0.5-alpha/edopro-custom-linux-x64.zip"
+    },
+    {
+      "name": "edopro-custom-windows-x86.zip",
+      "sha256": "3edc34c4e18313128e4bf083363dedd743a66aface4816b8859bcc0ab4098d55",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.0.5-alpha/edopro-custom-windows-x86.zip"
+    }
+  ],
+  "min_supported": 5,
+  "version": 5
+}
