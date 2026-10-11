@@ -37,14 +37,6 @@
       "source": "custom"
     },
     {
-      "id": 402416,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Obliterate!!! Blaze",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 433377,
       "limit": 3,
       "macro": "Magia",
@@ -162,14 +154,6 @@
       "macro": "Magia",
       "name": "Artmage Vandalism -Assault-",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 1142880,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Cyber Dragon Nachster",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -501,14 +485,6 @@
       "source": "custom"
     },
     {
-      "id": 3055018,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Obsidim, the Ashened City",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 3064783,
       "limit": 0,
       "macro": "Mostro Effetto",
@@ -677,14 +653,6 @@
       "source": "blocco"
     },
     {
-      "id": 4019153,
-      "limit": 3,
-      "macro": "XYZ",
-      "name": "Number 4: Numeron Gate Catvari",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 4026187,
       "limit": 3,
       "macro": "Fusion",
@@ -773,14 +741,6 @@
       "source": "custom"
     },
     {
-      "id": 4611341,
-      "limit": 3,
-      "macro": "Link",
-      "name": "S-Force Mystify",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 4647954,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -805,14 +765,6 @@
       "source": "custom"
     },
     {
-      "id": 4779091,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Yubel - Terror Incarnate",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 4810828,
       "limit": 3,
       "macro": "Ritual",
@@ -827,14 +779,6 @@
       "name": "Alligator's Dragon Knight",
       "points": 0,
       "source": "blocco"
-    },
-    {
-      "id": 4891376,
-      "limit": 3,
-      "macro": "Synchro",
-      "name": "Zalen the Shackled Dragon",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 4928565,
@@ -1165,14 +1109,6 @@
       "source": "custom"
     },
     {
-      "id": 7093411,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Crystal Beast Sapphire Pegasus",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 7166709,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -1433,7 +1369,7 @@
       "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Swap Frog",
-      "points": 9,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -1470,10 +1406,10 @@
     },
     {
       "id": 9396662,
-      "limit": 2,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Mirror Mage of the Ice Barrier",
-      "points": 3,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -1490,14 +1426,6 @@
       "macro": "Synchro",
       "name": "Adamancipator Risen - Dragite",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 9597987,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Tenchi Kaimei",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -1594,14 +1522,6 @@
       "macro": "Trappola",
       "name": "Infinite Impermanence",
       "points": 10,
-      "source": "custom"
-    },
-    {
-      "id": 10113611,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Wattuna",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -1845,14 +1765,6 @@
       "source": "custom"
     },
     {
-      "id": 11642993,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "S-Force World Sorting",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 11688916,
       "limit": 3,
       "macro": "Pendulum",
@@ -1982,10 +1894,10 @@
     },
     {
       "id": 12538374,
-      "limit": 0,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Treeborn Frog",
-      "points": 0,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -2333,14 +2245,6 @@
       "source": "blocco"
     },
     {
-      "id": 15232745,
-      "limit": 3,
-      "macro": "XYZ",
-      "name": "Number 1: Numeron Gate Ekam",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 15291624,
       "limit": 1,
       "macro": "Fusion",
@@ -2442,14 +2346,6 @@
       "macro": "XYZ",
       "name": "Number S38: Titanic Galaxy",
       "points": 3,
-      "source": "custom"
-    },
-    {
-      "id": 16135253,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Agido",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -2693,14 +2589,6 @@
       "source": "custom"
     },
     {
-      "id": 17616743,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Evil Eye Awakening",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 17621695,
       "limit": 3,
       "macro": "Magia",
@@ -2829,14 +2717,6 @@
       "source": "custom"
     },
     {
-      "id": 18319762,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Revealer of the Ice Barrier",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 18326736,
       "limit": 3,
       "macro": "XYZ",
@@ -2854,10 +2734,10 @@
     },
     {
       "id": 18482591,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Warlock of the Ice Barrier",
-      "points": 15,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -3001,7 +2881,7 @@
       "limit": 3,
       "macro": "Fusion",
       "name": "Light and Darkness Dragonlord",
-      "points": 25,
+      "points": 9,
       "source": "custom"
     },
     {
@@ -3025,14 +2905,6 @@
       "limit": 2,
       "macro": "Ritual",
       "name": "Ame no Murakumo no Mitsurugi",
-      "points": 0,
-      "source": "custom"
-    },
-    {
-      "id": 19951423,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Signify",
       "points": 0,
       "source": "custom"
     },
@@ -3085,14 +2957,6 @@
       "source": "custom"
     },
     {
-      "id": 20515672,
-      "limit": 3,
-      "macro": "Link",
-      "name": "S-Force Nightchaser",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 20590515,
       "limit": 3,
       "macro": "Trappola",
@@ -3113,7 +2977,7 @@
       "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Substitoad",
-      "points": 7,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -3229,14 +3093,6 @@
       "source": "custom"
     },
     {
-      "id": 21368442,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Gravitino",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 21377582,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -3285,14 +3141,6 @@
       "source": "custom"
     },
     {
-      "id": 22180094,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Rappa Chiyomaru",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 22283204,
       "limit": 3,
       "macro": "Magia",
@@ -3322,14 +3170,6 @@
       "macro": "Mostro Effetto",
       "name": "Mermail Abyssteus",
       "points": 2,
-      "source": "custom"
-    },
-    {
-      "id": 22501005,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Ritual Beast Inheritance",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -3485,14 +3325,6 @@
       "source": "custom"
     },
     {
-      "id": 23377425,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "S-Force Bridgehead",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 23401839,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -3538,14 +3370,6 @@
       "macro": "Magia",
       "name": "Rank-Up-Magic Soul Shave Force",
       "points": 33,
-      "source": "custom"
-    },
-    {
-      "id": 23617756,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Exxod Fires of Rage",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -3690,14 +3514,6 @@
       "macro": "Link",
       "name": "Gem-Knight Phantom Quartz",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 24508238,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "D.D. Crow",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -4109,14 +3925,6 @@
       "source": "custom"
     },
     {
-      "id": 27383719,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Lapcewell",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 27412542,
       "limit": 3,
       "macro": "Magia",
@@ -4245,14 +4053,6 @@
       "source": "custom"
     },
     {
-      "id": 28273805,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Six Strike - Double Assault",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 28306253,
       "limit": 2,
       "macro": "Ritual",
@@ -4362,14 +4162,6 @@
       "macro": "Mostro Effetto",
       "name": "Mirror Swordknight",
       "points": 6,
-      "source": "custom"
-    },
-    {
-      "id": 28957126,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Evil Eye of Gorgoneio",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -4885,14 +4677,6 @@
       "source": "custom"
     },
     {
-      "id": 31764700,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Yubel - The Ultimate Nightmare",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 31786838,
       "limit": 3,
       "macro": "Magia",
@@ -5053,14 +4837,6 @@
       "source": "custom"
     },
     {
-      "id": 32759190,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Hecahands Yadel",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 32762201,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -5085,26 +4861,10 @@
       "source": "custom"
     },
     {
-      "id": 32939238,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Ninjitsu Art Tool - Iron Digger",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 32991027,
-      "limit": 2,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Georgius, Swordman of the Ice Barrier",
-      "points": 2,
-      "source": "custom"
-    },
-    {
-      "id": 32991300,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Fiendsmith's Agnumday",
       "points": 0,
       "source": "custom"
     },
@@ -5533,14 +5293,6 @@
       "source": "custom"
     },
     {
-      "id": 35151572,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Shaman of the Ashened City",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 35199656,
       "limit": 2,
       "macro": "Mostro Effetto",
@@ -5586,14 +5338,6 @@
       "macro": "Mostro Effetto",
       "name": "Predaplant Ophrys Scorpio",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 35334193,
-      "limit": 3,
-      "macro": "Link",
-      "name": "S-Force Justify",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -6309,14 +6053,6 @@
       "source": "custom"
     },
     {
-      "id": 40216089,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Platinum Gadget",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 40235813,
       "limit": 0,
       "macro": "Magia",
@@ -6525,14 +6261,6 @@
       "source": "custom"
     },
     {
-      "id": 41790641,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Wattkingdom",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 41855169,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -6594,14 +6322,6 @@
       "macro": "Mostro Effetto",
       "name": "Illegal Knight",
       "points": 1,
-      "source": "custom"
-    },
-    {
-      "id": 42230449,
-      "limit": 3,
-      "macro": "XYZ",
-      "name": "Number 2: Numeron Gate Dve",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -6795,14 +6515,6 @@
       "name": "Mikanko Water Arabesque",
       "points": 10,
       "source": "genesys"
-    },
-    {
-      "id": 43582229,
-      "limit": 1,
-      "macro": "Magia",
-      "name": "Freezing Chains of the Ice Barrier",
-      "points": 1,
-      "source": "custom"
     },
     {
       "id": 43694650,
@@ -7237,14 +6949,6 @@
       "source": "custom"
     },
     {
-      "id": 46502744,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Retaliating \"C\"",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 46552140,
       "limit": 1,
       "macro": "Magia",
@@ -7573,14 +7277,6 @@
       "source": "custom"
     },
     {
-      "id": 48800175,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "The Melody of Awakening Dragon",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 48814566,
       "limit": 3,
       "macro": "Trappola",
@@ -7853,14 +7549,6 @@
       "source": "custom"
     },
     {
-      "id": 51124303,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Nekroz Kaleidoscope",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 51250293,
       "limit": 3,
       "macro": "Magia",
@@ -7922,14 +7610,6 @@
       "macro": "Mostro Effetto",
       "name": "Ghost Mourner & Moonlit Chill",
       "points": 1,
-      "source": "custom"
-    },
-    {
-      "id": 52068432,
-      "limit": 3,
-      "macro": "Ritual",
-      "name": "Nekroz of Trishula",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -7997,14 +7677,6 @@
       "source": "custom"
     },
     {
-      "id": 52495649,
-      "limit": 3,
-      "macro": "Ritual",
-      "name": "Balameuniere de Nouvelles",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 52502677,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -8030,10 +7702,10 @@
     },
     {
       "id": 52687916,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Trishula, Dragon of the Ice Barrier",
-      "points": 3,
+      "points": 1,
       "source": "custom"
     },
     {
@@ -8149,14 +7821,6 @@
       "source": "custom"
     },
     {
-      "id": 53782828,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Retroactive",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 53804307,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -8170,14 +7834,6 @@
       "macro": "Trappola",
       "name": "Radiant Typhoon Mandate",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 53829527,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Crystron Cluster",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -8397,14 +8053,6 @@
       "source": "custom"
     },
     {
-      "id": 54878498,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Kelbek",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 54974237,
       "limit": 3,
       "macro": "Trappola",
@@ -8426,14 +8074,6 @@
       "macro": "Mostro Effetto",
       "name": "K9-66b Lantern",
       "points": 5,
-      "source": "custom"
-    },
-    {
-      "id": 55049722,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "S-Force Chase",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -8893,14 +8533,6 @@
       "source": "custom"
     },
     {
-      "id": 58363151,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Pla-Tina",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 58481572,
       "limit": 3,
       "macro": "Fusion",
@@ -8923,14 +8555,6 @@
       "name": "Reasoning",
       "points": 50,
       "source": "genesys"
-    },
-    {
-      "id": 58589739,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Professor DiGamma",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 58699500,
@@ -9258,14 +8882,6 @@
       "macro": "Magia",
       "name": "Cyber Emergency",
       "points": 5,
-      "source": "custom"
-    },
-    {
-      "id": 60643553,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Ghost Sister & Spooky Dogwood",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -9909,14 +9525,6 @@
       "source": "custom"
     },
     {
-      "id": 64964750,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Sales Ban",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 65118318,
       "limit": 0,
       "macro": "Trappola",
@@ -9963,14 +9571,6 @@
       "name": "Crystron Halqifibrax Prism",
       "points": 0,
       "source": "blocco"
-    },
-    {
-      "id": 65479980,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Dog Tag",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 65504487,
@@ -10261,14 +9861,6 @@
       "source": "custom"
     },
     {
-      "id": 67216732,
-      "limit": 3,
-      "macro": "Link",
-      "name": "S-Force Nightcatcher",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 67234805,
       "limit": 3,
       "macro": "Trappola",
@@ -10419,14 +10011,6 @@
       "name": "Deep-Eyes White Dragon, the Blue Abyss",
       "points": 0,
       "source": "blocco"
-    },
-    {
-      "id": 68038375,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Ninjitsu Art of Dancing Leaves",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 68059897,
@@ -10693,14 +10277,6 @@
       "source": "custom"
     },
     {
-      "id": 69761020,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "S-Force Showdown",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 69802283,
       "limit": 3,
       "macro": "Magia",
@@ -10898,14 +10474,6 @@
       "macro": "Mostro Normale",
       "name": "Right Arm of the Forbidden One",
       "points": 0,
-      "source": "custom"
-    },
-    {
-      "id": 70980824,
-      "limit": 1,
-      "macro": "Synchro",
-      "name": "Trishula, Zero Dragon of the Ice Barrier",
-      "points": 5,
       "source": "custom"
     },
     {
@@ -11114,14 +10682,6 @@
       "macro": "Mostro Effetto",
       "name": "Vanity's Ruler",
       "points": 66,
-      "source": "custom"
-    },
-    {
-      "id": 72656408,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Bystial Baldrake",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -11725,14 +11285,6 @@
       "source": "genesys"
     },
     {
-      "id": 76774528,
-      "limit": 3,
-      "macro": "Synchro",
-      "name": "Scrap Dragon",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 76794549,
       "limit": 3,
       "macro": "Pendulum",
@@ -11933,14 +11485,6 @@
       "source": "custom"
     },
     {
-      "id": 78371393,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Yubel",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 78397661,
       "limit": 3,
       "macro": "Synchro",
@@ -11977,14 +11521,6 @@
       "limit": 0,
       "macro": "Link",
       "name": "Levia-Dragoon - Daedalus",
-      "points": 0,
-      "source": "custom"
-    },
-    {
-      "id": 78625448,
-      "limit": 3,
-      "macro": "XYZ",
-      "name": "Number 3: Numeron Gate Trini",
       "points": 0,
       "source": "custom"
     },
@@ -12393,7 +11929,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "General Raiho of the Ice Barrier",
-      "points": 0,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -12467,14 +12003,6 @@
       "name": "Myriaday Dragon",
       "points": 0,
       "source": "blocco"
-    },
-    {
-      "id": 81825063,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "General Wayne of the Ice Barrier",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 81866673,
@@ -12629,14 +12157,6 @@
       "source": "blocco"
     },
     {
-      "id": 82977464,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "S-Force Specimen",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 82997779,
       "limit": 3,
       "macro": "Magia",
@@ -12674,14 +12194,6 @@
       "macro": "Magia",
       "name": "Ghost Meets Girl - A Mayakashi's Manuscript",
       "points": 12,
-      "source": "custom"
-    },
-    {
-      "id": 83303851,
-      "limit": 3,
-      "macro": "Pendulum",
-      "name": "D/D/D Chaos King Apocalypse",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -13205,14 +12717,6 @@
       "source": "custom"
     },
     {
-      "id": 87054946,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Nephthys, the Sacred Flame",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 87074380,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -13226,14 +12730,6 @@
       "macro": "Mostro Effetto",
       "name": "Mulcharmy Meowls",
       "points": 3,
-      "source": "custom"
-    },
-    {
-      "id": 87170768,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Contact \"C\"",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -13322,14 +12818,6 @@
       "macro": "Mostro Effetto",
       "name": "The Tyrant Neptune",
       "points": 33,
-      "source": "custom"
-    },
-    {
-      "id": 88123329,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Spiritual Beast Rampengu",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -13581,14 +13069,6 @@
       "source": "genesys"
     },
     {
-      "id": 90351981,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Orcustrated Babel",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 90361010,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -13690,14 +13170,6 @@
       "macro": "Mostro Effetto",
       "name": "Theorealized Medius",
       "points": 33,
-      "source": "custom"
-    },
-    {
-      "id": 90939874,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Six Strike - Sextuple Barrage",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -13810,14 +13282,6 @@
       "macro": "Mostro Effetto",
       "name": "Tenpai Dragon Chundra",
       "points": 33,
-      "source": "custom"
-    },
-    {
-      "id": 91864689,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Edge Razor",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -14019,14 +13483,6 @@
       "name": "Red Dragon Archfiend's Chain",
       "points": 0,
       "source": "blocco"
-    },
-    {
-      "id": 92962242,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Jioh the Gravity Ninja",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 92964816,
@@ -14301,14 +13757,6 @@
       "source": "custom"
     },
     {
-      "id": 94656263,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Kagetokage",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 94677445,
       "limit": 3,
       "macro": "Synchro",
@@ -14533,22 +13981,6 @@
       "source": "custom"
     },
     {
-      "id": 95974848,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "S-Force Orrafist",
-      "points": 0,
-      "source": "custom"
-    },
-    {
-      "id": 96113307,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Ritual Beast Ulti-Reirautari",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 96142517,
       "limit": 3,
       "macro": "Magia",
@@ -14585,7 +14017,7 @@
       "limit": 1,
       "macro": "Synchro",
       "name": "Lancea, Ancestral Dragon of the Ice Mountain",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -14957,27 +14389,11 @@
       "source": "custom"
     },
     {
-      "id": 99185129,
-      "limit": 3,
-      "macro": "Ritual",
-      "name": "Nekroz of Clausolas",
-      "points": 0,
-      "source": "custom"
-    },
-    {
       "id": 99193444,
       "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Poseidra, the Storming Atlantean",
       "points": 12,
-      "source": "custom"
-    },
-    {
-      "id": 99199231,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "S-Force Origin",
-      "points": 0,
       "source": "custom"
     },
     {
@@ -16101,9 +15517,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-08T18:56:29Z",
-  "format_version": 28,
-  "generated_at": "2026-10-10T18:56:29Z",
+  "expires_at": "2027-04-09T19:51:18Z",
+  "format_version": 29,
+  "generated_at": "2026-10-11T19:51:18Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
