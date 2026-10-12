@@ -1881,7 +1881,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Divine Domain Baatistina",
-      "points": 21,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -4321,7 +4321,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Naturia Camellia",
-      "points": 7,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -7621,6 +7621,14 @@
       "source": "custom"
     },
     {
+      "id": 52126602,
+      "limit": 3,
+      "macro": "Mostro Effetto",
+      "name": "Gen the Diamond Tiger",
+      "points": 1,
+      "source": "custom"
+    },
+    {
       "id": 52155219,
       "limit": 3,
       "macro": "Magia",
@@ -8589,14 +8597,6 @@
       "source": "custom"
     },
     {
-      "id": 58882608,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Breath of the Tistina",
-      "points": 3,
-      "source": "custom"
-    },
-    {
       "id": 58911105,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -8697,7 +8697,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Demigod of the Tistina",
-      "points": 9,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -12761,7 +12761,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Fallen of the Tistina",
-      "points": 5,
+      "points": 2,
       "source": "custom"
     },
     {
@@ -13569,7 +13569,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Naturia Mole Cricket",
-      "points": 12,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -15517,9 +15517,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-09T19:51:18Z",
-  "format_version": 29,
-  "generated_at": "2026-10-11T19:51:18Z",
+  "expires_at": "2027-04-10T23:01:40Z",
+  "format_version": 30,
+  "generated_at": "2026-10-12T23:01:40Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
