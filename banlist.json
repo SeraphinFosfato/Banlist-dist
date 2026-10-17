@@ -558,10 +558,10 @@
     },
     {
       "id": 3496543,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Sinful Spoils of the White Forest",
-      "points": 9,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -718,10 +718,10 @@
     },
     {
       "id": 4398189,
-      "limit": 1,
+      "limit": 3,
       "macro": "Magia",
       "name": "Witch of the White Forest",
-      "points": 10,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -2134,10 +2134,10 @@
     },
     {
       "id": 14307929,
-      "limit": 3,
+      "limit": 0,
       "macro": "Synchro",
       "name": "Diabell, Queen of the White Forest",
-      "points": 33,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2622,10 +2622,10 @@
     },
     {
       "id": 17749468,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "Azamina",
-      "points": 7,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -3321,7 +3321,7 @@
       "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Diabellstar Vengeance",
-      "points": 10,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -3582,10 +3582,10 @@
     },
     {
       "id": 24878656,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Toy Box",
-      "points": 20,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -3642,14 +3642,6 @@
       "macro": "Mostro Effetto",
       "name": "Rokket Loader",
       "points": 5,
-      "source": "custom"
-    },
-    {
-      "id": 25592142,
-      "limit": 2,
-      "macro": "Mostro Effetto",
-      "name": "Astellar of the White Forest",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -7865,7 +7857,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Diabellze the Original Sinkeeper",
-      "points": 12,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -8857,7 +8849,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Diabellze the White Witch",
-      "points": 12,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -9137,7 +9129,7 @@
       "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Elzette of the White Forest",
-      "points": 4,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -9638,10 +9630,10 @@
     },
     {
       "id": 65504487,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Toy Soldier",
-      "points": 15,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -9794,14 +9786,6 @@
       "macro": "Magia",
       "name": "Gordian Slicer",
       "points": 3,
-      "source": "custom"
-    },
-    {
-      "id": 66328392,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Deception of the Sinful Spoils",
-      "points": 21,
       "source": "custom"
     },
     {
@@ -10366,10 +10350,10 @@
     },
     {
       "id": 69925461,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Toy Tank",
-      "points": 15,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10850,14 +10834,6 @@
       "macro": "Mostro Effetto",
       "name": "Barrier Statue of the Stormwinds",
       "points": 0,
-      "source": "custom"
-    },
-    {
-      "id": 73391962,
-      "limit": 3,
-      "macro": "Fusion",
-      "name": "Azamina Mu Rcielago",
-      "points": 9,
       "source": "custom"
     },
     {
@@ -11430,10 +11406,10 @@
     },
     {
       "id": 77313225,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Rciela, Sinister Soul of the White Forest",
-      "points": 20,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -11597,6 +11573,14 @@
       "source": "custom"
     },
     {
+      "id": 78693036,
+      "limit": 3,
+      "macro": "Synchro",
+      "name": "Juraishin, the Cursed Thunder God",
+      "points": 5,
+      "source": "custom"
+    },
+    {
       "id": 78706415,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -11659,14 +11643,6 @@
       "name": "Tellarknight Lyran",
       "points": 5,
       "source": "genesys"
-    },
-    {
-      "id": 79415624,
-      "limit": 3,
-      "macro": "Synchro",
-      "name": "Snake-Eyes Vengeance Dragon",
-      "points": 15,
-      "source": "custom"
     },
     {
       "id": 79523365,
@@ -11910,10 +11886,10 @@
     },
     {
       "id": 80845034,
-      "limit": 2,
+      "limit": 1,
       "macro": "Magia",
       "name": "WANTED: Seeker of Sinful Spoils",
-      "points": 4,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -13878,10 +13854,10 @@
     },
     {
       "id": 94845588,
-      "limit": 3,
+      "limit": 0,
       "macro": "Magia",
       "name": "The Hallowed Azamina",
-      "points": 4,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -14338,14 +14314,6 @@
       "macro": "Magia",
       "name": "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
       "points": 1,
-      "source": "custom"
-    },
-    {
-      "id": 98385955,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Silvy of the White Forest",
-      "points": 5,
       "source": "custom"
     },
     {
@@ -15589,9 +15557,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-15T09:53:02Z",
-  "format_version": 32,
-  "generated_at": "2026-10-17T09:53:02Z",
+  "expires_at": "2027-04-15T12:53:23Z",
+  "format_version": 33,
+  "generated_at": "2026-10-17T12:53:23Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
