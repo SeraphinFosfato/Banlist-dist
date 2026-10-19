@@ -93,6 +93,14 @@
       "source": "custom"
     },
     {
+      "id": 821049,
+      "limit": 3,
+      "macro": "Synchro",
+      "name": "Visas Amritara",
+      "points": 5,
+      "source": "custom"
+    },
+    {
       "id": 847217,
       "limit": 0,
       "macro": "Magia",
@@ -721,7 +729,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Witch of the White Forest",
-      "points": 5,
+      "points": 8,
       "source": "custom"
     },
     {
@@ -901,14 +909,6 @@
       "source": "custom"
     },
     {
-      "id": 5914858,
-      "limit": 3,
-      "macro": "Synchro",
-      "name": "Junora the Power Patron of Tuning",
-      "points": 33,
-      "source": "custom"
-    },
-    {
       "id": 5990062,
       "limit": 3,
       "macro": "Magia",
@@ -1022,11 +1022,11 @@
     },
     {
       "id": 6595475,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Onomatopaira",
-      "points": 33,
-      "source": "genesys"
+      "points": 6,
+      "source": "custom"
     },
     {
       "id": 6602300,
@@ -1174,10 +1174,10 @@
     },
     {
       "id": 7594154,
-      "limit": 3,
+      "limit": 0,
       "macro": "Link",
       "name": "Zenna's Deceiving Doll Maidens",
-      "points": 100,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -1977,7 +1977,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Dragonic Diagram",
-      "points": 15,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -2022,10 +2022,10 @@
     },
     {
       "id": 13332685,
-      "limit": 0,
+      "limit": 1,
       "macro": "Ritual",
       "name": "Ame no Habakiri no Mitsurugi",
-      "points": 100,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2097,8 +2097,8 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Denko Sekka",
-      "points": 20,
-      "source": "genesys"
+      "points": 6,
+      "source": "custom"
     },
     {
       "id": 14001430,
@@ -2230,10 +2230,10 @@
     },
     {
       "id": 14965712,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Multiplying Kuriboh!",
-      "points": 51,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -2961,7 +2961,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "The Hidden Hecahands",
-      "points": 7,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -3033,8 +3033,8 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Numbers Eveil",
-      "points": 70,
-      "source": "genesys"
+      "points": 12,
+      "source": "custom"
     },
     {
       "id": 21011044,
@@ -3110,11 +3110,11 @@
     },
     {
       "id": 21377582,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Master Peace, the True Dracoslaying King",
-      "points": 33,
-      "source": "genesys"
+      "points": 15,
+      "source": "custom"
     },
     {
       "id": 21419436,
@@ -3454,10 +3454,10 @@
     },
     {
       "id": 24088928,
-      "limit": 0,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Skull Archfiend of Chaos",
-      "points": 0,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -3561,7 +3561,7 @@
       "limit": 1,
       "macro": "Trappola",
       "name": "Mind Shuffle",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -3910,10 +3910,10 @@
     },
     {
       "id": 27184601,
-      "limit": 1,
+      "limit": 2,
       "macro": "Fusion",
       "name": "Artmage Diactorus",
-      "points": 6,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -3993,8 +3993,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Fairy Tail - Wiccat",
-      "points": 10,
-      "source": "genesys"
+      "points": 33,
+      "source": "custom"
     },
     {
       "id": 27699122,
@@ -4878,10 +4878,10 @@
     },
     {
       "id": 32909498,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Kashtira Fenrir",
-      "points": 15,
+      "points": 8,
       "source": "custom"
     },
     {
@@ -5197,6 +5197,14 @@
       "source": "custom"
     },
     {
+      "id": 34447918,
+      "limit": 3,
+      "macro": "Magia",
+      "name": "Kashtiratheosis",
+      "points": 5,
+      "source": "custom"
+    },
+    {
       "id": 34680482,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -5310,10 +5318,10 @@
     },
     {
       "id": 35125879,
-      "limit": 3,
+      "limit": 1,
       "macro": "Trappola",
       "name": "True King's Return",
-      "points": 6,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -5505,7 +5513,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Branded Opening",
-      "points": 7,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -6193,7 +6201,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Numeron Network",
-      "points": 15,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -6345,7 +6353,7 @@
       "limit": 3,
       "macro": "Synchro",
       "name": "Elfnote Seraphim Strelitzia",
-      "points": 3,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -6385,7 +6393,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Spenta, the Magistus Sealer",
-      "points": 17,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -6606,10 +6614,10 @@
     },
     {
       "id": 44146295,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "Mirrorjade the Iceblade Dragon",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -6694,10 +6702,10 @@
     },
     {
       "id": 44654994,
-      "limit": 3,
+      "limit": 0,
       "macro": "Trappola",
       "name": "Artmage Impasto -Recapture-",
-      "points": 41,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -6785,7 +6793,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Mitsurugi Prayers",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -6862,7 +6870,7 @@
     },
     {
       "id": 45883110,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Guiding Quem, the Virtuous",
       "points": 15,
@@ -6942,10 +6950,10 @@
     },
     {
       "id": 46396218,
-      "limit": 3,
+      "limit": 0,
       "macro": "Fusion",
       "name": "Azamina Ilia Silvia",
-      "points": 9,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -7262,11 +7270,11 @@
     },
     {
       "id": 48626373,
-      "limit": 3,
+      "limit": 1,
       "macro": "XYZ",
       "name": "Kashtira Arise-Heart",
-      "points": 97,
-      "source": "genesys"
+      "points": 40,
+      "source": "custom"
     },
     {
       "id": 48658295,
@@ -7437,6 +7445,14 @@
       "source": "custom"
     },
     {
+      "id": 49721684,
+      "limit": 0,
+      "macro": "Magia",
+      "name": "Mitsurugi Mirror",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 49867899,
       "limit": 3,
       "macro": "Link",
@@ -7457,7 +7473,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Celtic Mystic",
-      "points": 25,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -7849,7 +7865,7 @@
       "limit": 1,
       "macro": "Fusion",
       "name": "Nerva the Power Patron of Creation",
-      "points": 0,
+      "points": 18,
       "source": "custom"
     },
     {
@@ -8670,10 +8686,10 @@
     },
     {
       "id": 58984738,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Dinomight Knight, the True Dracofighter",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -8718,10 +8734,10 @@
     },
     {
       "id": 59400890,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "Dark Magician of Destruction",
-      "points": 66,
+      "points": 25,
       "source": "custom"
     },
     {
@@ -8766,10 +8782,10 @@
     },
     {
       "id": 59581480,
-      "limit": 1,
+      "limit": 0,
       "macro": "Mostro Effetto",
       "name": "Elfnote Tinia",
-      "points": 7,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -9129,7 +9145,7 @@
       "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Elzette of the White Forest",
-      "points": 0,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -9246,10 +9262,10 @@
     },
     {
       "id": 62880279,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Dodododo Warrior",
-      "points": 33,
+      "points": 18,
       "source": "custom"
     },
     {
@@ -9493,6 +9509,14 @@
       "source": "blocco"
     },
     {
+      "id": 64491754,
+      "limit": 2,
+      "macro": "Magia",
+      "name": "Elfnotes: Welcome Home",
+      "points": 5,
+      "source": "custom"
+    },
+    {
       "id": 64591429,
       "limit": 1,
       "macro": "Mostro Effetto",
@@ -9693,6 +9717,14 @@
       "source": "custom"
     },
     {
+      "id": 65815684,
+      "limit": 1,
+      "macro": "Fusion",
+      "name": "Vicious Astraloud",
+      "points": 7,
+      "source": "custom"
+    },
+    {
       "id": 65848113,
       "limit": 3,
       "macro": "XYZ",
@@ -9786,6 +9818,14 @@
       "macro": "Magia",
       "name": "Gordian Slicer",
       "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 66328392,
+      "limit": 1,
+      "macro": "Magia",
+      "name": "Deception of the Sinful Spoils",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10070,10 +10110,10 @@
     },
     {
       "id": 68144894,
-      "limit": 1,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Hecahands Godos",
-      "points": 5,
+      "points": 6,
       "source": "custom"
     },
     {
@@ -10097,7 +10137,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Kashtira Unicorn",
-      "points": 9,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -10146,14 +10186,6 @@
       "macro": "Mostro Effetto",
       "name": "Rokket Tracer",
       "points": 5,
-      "source": "custom"
-    },
-    {
-      "id": 68468459,
-      "limit": 2,
-      "macro": "Mostro Effetto",
-      "name": "Fallen of Albaz",
-      "points": 1,
       "source": "custom"
     },
     {
@@ -10298,6 +10330,14 @@
       "macro": "Magia",
       "name": "Treasures of the Kings",
       "points": 10,
+      "source": "custom"
+    },
+    {
+      "id": 69540484,
+      "limit": 3,
+      "macro": "Magia",
+      "name": "Kashtira Birth",
+      "points": 3,
       "source": "custom"
     },
     {
@@ -10625,7 +10665,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Pressured Planet Wraitsoth",
-      "points": 33,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -10670,7 +10710,7 @@
     },
     {
       "id": 72270339,
-      "limit": 1,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Diabellstar the Black Witch",
       "points": 7,
@@ -11073,7 +11113,7 @@
       "limit": 3,
       "macro": "Fusion",
       "name": "Artmage Non-Finito",
-      "points": 25,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -11086,10 +11126,10 @@
     },
     {
       "id": 74733322,
-      "limit": 2,
+      "limit": 3,
       "macro": "Magia",
       "name": "Artmage Academic Arcane Arts Acropolis",
-      "points": 12,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -11302,10 +11342,10 @@
     },
     {
       "id": 76666602,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "The Dragon that Devours the Dogma",
-      "points": 5,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -11406,18 +11446,10 @@
     },
     {
       "id": 77313225,
-      "limit": 1,
+      "limit": 3,
       "macro": "Synchro",
       "name": "Rciela, Sinister Soul of the White Forest",
-      "points": 10,
-      "source": "custom"
-    },
-    {
-      "id": 77402960,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Numeron Calling",
-      "points": 15,
+      "points": 6,
       "source": "custom"
     },
     {
@@ -11514,6 +11546,14 @@
       "macro": "XYZ",
       "name": "Exosister Kaspitell",
       "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 78144171,
+      "limit": 3,
+      "macro": "XYZ",
+      "name": "Dark Armed, the Dragon of Annihilation",
+      "points": 7,
       "source": "custom"
     },
     {
@@ -11693,14 +11733,6 @@
       "source": "custom"
     },
     {
-      "id": 79747096,
-      "limit": 3,
-      "macro": "XYZ",
-      "name": "Number C1: Numeron Chaos Gate Sunya",
-      "points": 10,
-      "source": "genesys"
-    },
-    {
       "id": 79783880,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -11770,6 +11802,14 @@
       "macro": "Trappola",
       "name": "Trap Trick",
       "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 80117527,
+      "limit": 1,
+      "macro": "XYZ",
+      "name": "Number 11: Big Eye",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -11886,10 +11926,10 @@
     },
     {
       "id": 80845034,
-      "limit": 1,
+      "limit": 3,
       "macro": "Magia",
       "name": "WANTED: Seeker of Sinful Spoils",
-      "points": 5,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -11913,7 +11953,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Flying \"C\"",
-      "points": 3,
+      "points": 1,
       "source": "custom"
     },
     {
@@ -12454,10 +12494,10 @@
     },
     {
       "id": 84731222,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Memories of Hope",
-      "points": 3,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -12841,7 +12881,7 @@
       "limit": 3,
       "macro": "Fusion",
       "name": "Albion the Branded Dragon",
-      "points": 7,
+      "points": 14,
       "source": "custom"
     },
     {
@@ -13774,10 +13814,10 @@
     },
     {
       "id": 94410955,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "Hecahands Xeno",
-      "points": 20,
+      "points": 25,
       "source": "custom"
     },
     {
@@ -13953,8 +13993,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Number 89: Diablosis the Mind Hacker",
-      "points": 85,
-      "source": "genesys"
+      "points": 18,
+      "source": "custom"
     },
     {
       "id": 95492061,
@@ -14182,10 +14222,10 @@
     },
     {
       "id": 97462632,
-      "limit": 0,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Griffoh",
-      "points": 0,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -14206,10 +14246,10 @@
     },
     {
       "id": 97556336,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Medius the Pure",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -15557,9 +15597,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-15T12:53:23Z",
-  "format_version": 33,
-  "generated_at": "2026-10-17T12:53:23Z",
+  "expires_at": "2027-04-17T10:39:43Z",
+  "format_version": 34,
+  "generated_at": "2026-10-19T10:39:43Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
