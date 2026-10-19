@@ -390,10 +390,10 @@
     },
     {
       "id": 2526224,
-      "limit": 2,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Fire King High Avatar Kirin",
-      "points": 14,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -774,10 +774,10 @@
     },
     {
       "id": 4810828,
-      "limit": 3,
+      "limit": 2,
       "macro": "Ritual",
       "name": "Sauravis, the Ancient and Ascended",
-      "points": 3,
+      "points": 1,
       "source": "custom"
     },
     {
@@ -921,7 +921,7 @@
       "limit": 3,
       "macro": "Pendulum",
       "name": "D/D Count Surveyor",
-      "points": 12,
+      "points": 8,
       "source": "custom"
     },
     {
@@ -1062,10 +1062,10 @@
     },
     {
       "id": 6728559,
-      "limit": 3,
+      "limit": 0,
       "macro": "Mostro Effetto",
       "name": "Archnemeses Protos",
-      "points": 33,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -1729,7 +1729,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Duamutef, Blessing of Horus",
-      "points": 5,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -1766,10 +1766,10 @@
     },
     {
       "id": 11609969,
-      "limit": 3,
+      "limit": 2,
       "macro": "Pendulum",
       "name": "D/D Savant Kepler",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -1794,6 +1794,14 @@
       "macro": "Fusion",
       "name": "Meizen the Battle Ninja",
       "points": 13,
+      "source": "custom"
+    },
+    {
+      "id": 11852093,
+      "limit": 1,
+      "macro": "Fusion",
+      "name": "D/D/D Alfred the Divine Sage King",
+      "points": 8,
       "source": "custom"
     },
     {
@@ -1994,14 +2002,6 @@
       "macro": "Magia",
       "name": "Mimighoul Maker",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 13210191,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Storm",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -2350,10 +2350,10 @@
     },
     {
       "id": 15939229,
-      "limit": 3,
+      "limit": 0,
       "macro": "XYZ",
       "name": "D/D/D Duo-Dawn King Kali Yuga",
-      "points": 20,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2422,10 +2422,10 @@
     },
     {
       "id": 16528181,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "King's Sarcophagus",
-      "points": 7,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -2857,7 +2857,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Tri-Brigade Springans Kitt",
-      "points": 12,
+      "points": 8,
       "source": "custom"
     },
     {
@@ -3006,10 +3006,10 @@
     },
     {
       "id": 20715411,
-      "limit": 3,
+      "limit": 0,
       "macro": "Pendulum",
       "name": "D/D/D Zero Doom Queen Machinex",
-      "points": 33,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -3289,7 +3289,7 @@
       "limit": 3,
       "macro": "Trappola",
       "name": "Red Reboot",
-      "points": 33,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -3629,6 +3629,22 @@
       "source": "custom"
     },
     {
+      "id": 25538345,
+      "limit": 3,
+      "macro": "Mostro Effetto",
+      "name": "The Phantom Knights of Torn Scales",
+      "points": 3,
+      "source": "custom"
+    },
+    {
+      "id": 25542642,
+      "limit": 3,
+      "macro": "Trappola",
+      "name": "Phantom Knights' Fog Blade",
+      "points": 3,
+      "source": "custom"
+    },
+    {
       "id": 25550531,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -3798,10 +3814,10 @@
     },
     {
       "id": 26692769,
-      "limit": 3,
+      "limit": 1,
       "macro": "Link",
       "name": "The Phantom Knights of Rusty Bardiche",
-      "points": 15,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -3961,7 +3977,7 @@
       "limit": 3,
       "macro": "Link",
       "name": "Charmer Quartet in Bloom",
-      "points": 100,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -4107,14 +4123,6 @@
       "name": "P.U.N.K. JAM Dragon Drive",
       "points": 15,
       "source": "genesys"
-    },
-    {
-      "id": 28406301,
-      "limit": 3,
-      "macro": "Pendulum",
-      "name": "D/D Gryphon",
-      "points": 1,
-      "source": "custom"
     },
     {
       "id": 28454232,
@@ -4841,7 +4849,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Dark Contract with the Zero King",
-      "points": 15,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -4934,10 +4942,10 @@
     },
     {
       "id": 33212663,
-      "limit": 3,
+      "limit": 0,
       "macro": "Mostro Effetto",
       "name": "Archnemeses Eschatos",
-      "points": 35,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -5042,14 +5050,6 @@
       "macro": "Magia",
       "name": "One Day of Peace",
       "points": 3,
-      "source": "custom"
-    },
-    {
-      "id": 33814281,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Dark Contract with Patent License",
-      "points": 10,
       "source": "custom"
     },
     {
@@ -6358,7 +6358,7 @@
     },
     {
       "id": 42382265,
-      "limit": 3,
+      "limit": 1,
       "macro": "Pendulum",
       "name": "D/D Scale Surveyor",
       "points": 3,
@@ -6681,7 +6681,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Fire King Courtier Ulcanix",
-      "points": 10,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -6857,8 +6857,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Pilgrim Reaper",
-      "points": 50,
-      "source": "genesys"
+      "points": 7,
+      "source": "custom"
     },
     {
       "id": 45852939,
@@ -7030,10 +7030,10 @@
     },
     {
       "id": 46796664,
-      "limit": 3,
+      "limit": 2,
       "macro": "Pendulum",
       "name": "D/D Savant Copernicus",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -9249,8 +9249,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "The Phantom Knights of Break Sword",
-      "points": 1,
-      "source": "genesys"
+      "points": 5,
+      "source": "custom"
     },
     {
       "id": 62767644,
@@ -10101,6 +10101,14 @@
       "source": "blocco"
     },
     {
+      "id": 68005187,
+      "limit": 3,
+      "macro": "Magia",
+      "name": "Soul Exchange",
+      "points": 3,
+      "source": "custom"
+    },
+    {
       "id": 68059897,
       "limit": 1,
       "macro": "Link",
@@ -10598,10 +10606,10 @@
     },
     {
       "id": 71398055,
-      "limit": 3,
+      "limit": 0,
       "macro": "Pendulum",
       "name": "D/D/D/D Dimensional King Arc Crisis",
-      "points": 9,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10702,10 +10710,10 @@
     },
     {
       "id": 72181263,
-      "limit": 3,
+      "limit": 2,
       "macro": "Pendulum",
       "name": "D/D Orthros",
-      "points": 1,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10822,10 +10830,10 @@
     },
     {
       "id": 73082255,
-      "limit": 3,
+      "limit": 1,
       "macro": "XYZ",
       "name": "The Zombie Vampire",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -11010,14 +11018,6 @@
       "macro": "Magia",
       "name": "Invocation",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 74069667,
-      "limit": 3,
-      "macro": "Pendulum",
-      "name": "D/D/D Oblivion King Abyss Ragnarok",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -11761,7 +11761,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "The Monarchs Stormforth",
-      "points": 3,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -12334,11 +12334,11 @@
     },
     {
       "id": 83764718,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Monster Reborn",
-      "points": 3,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 83827392,
@@ -12526,10 +12526,10 @@
     },
     {
       "id": 84941194,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Imsety, Glory of Horus",
-      "points": 15,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -13201,8 +13201,8 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Legendary Fire King Ponix",
-      "points": 7,
-      "source": "genesys"
+      "points": 5,
+      "source": "custom"
     },
     {
       "id": 90711610,
@@ -14326,10 +14326,10 @@
     },
     {
       "id": 98095162,
-      "limit": 1,
+      "limit": 0,
       "macro": "Link",
       "name": "Curious, the Lightsworn Dominion",
-      "points": 33,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -15597,9 +15597,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-17T10:39:43Z",
-  "format_version": 34,
-  "generated_at": "2026-10-19T10:39:43Z",
+  "expires_at": "2027-04-17T13:55:58Z",
+  "format_version": 35,
+  "generated_at": "2026-10-19T13:55:58Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
