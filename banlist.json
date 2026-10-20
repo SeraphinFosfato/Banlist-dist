@@ -29,14 +29,6 @@
       "source": "custom"
     },
     {
-      "id": 298846,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Trickstar Colchica",
-      "points": 5,
-      "source": "custom"
-    },
-    {
       "id": 433377,
       "limit": 3,
       "macro": "Magia",
@@ -409,8 +401,8 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Wandering Gryphon Rider",
-      "points": 50,
-      "source": "genesys"
+      "points": 7,
+      "source": "custom"
     },
     {
       "id": 2606417,
@@ -878,10 +870,10 @@
     },
     {
       "id": 5559570,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Elfnote June Pride",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -1174,10 +1166,10 @@
     },
     {
       "id": 7594154,
-      "limit": 0,
+      "limit": 1,
       "macro": "Link",
       "name": "Zenna's Deceiving Doll Maidens",
-      "points": 0,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -1877,14 +1869,6 @@
       "source": "custom"
     },
     {
-      "id": 12375297,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Elfnote Power Patron",
-      "points": 3,
-      "source": "custom"
-    },
-    {
       "id": 12381100,
       "limit": 3,
       "macro": "Fusion",
@@ -2025,7 +2009,7 @@
       "limit": 1,
       "macro": "Ritual",
       "name": "Ame no Habakiri no Mitsurugi",
-      "points": 0,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -2054,10 +2038,10 @@
     },
     {
       "id": 13597785,
-      "limit": 2,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Elfnote Lucina",
-      "points": 15,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -2266,6 +2250,14 @@
       "macro": "Fusion",
       "name": "Thunder Dragon Colossus",
       "points": 21,
+      "source": "custom"
+    },
+    {
+      "id": 15341821,
+      "limit": 1,
+      "macro": "Mostro Effetto",
+      "name": "Dandylion",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2805,6 +2797,14 @@
       "source": "custom"
     },
     {
+      "id": 18969888,
+      "limit": 0,
+      "macro": "Synchro",
+      "name": "Sangenpai Transcendent Dragion",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 18973184,
       "limit": 3,
       "macro": "Magia",
@@ -3317,6 +3317,14 @@
       "source": "custom"
     },
     {
+      "id": 23085002,
+      "limit": 1,
+      "macro": "XYZ",
+      "name": "Number 68: Sanaphond the Sky Prison",
+      "points": 8,
+      "source": "custom"
+    },
+    {
       "id": 23151193,
       "limit": 1,
       "macro": "Mostro Effetto",
@@ -3401,7 +3409,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Tenpai Dragon Genroku",
-      "points": 15,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -3763,6 +3771,14 @@
       "name": "Revenge of the Paper Dolls",
       "points": 0,
       "source": "blocco"
+    },
+    {
+      "id": 26202165,
+      "limit": 1,
+      "macro": "Mostro Effetto",
+      "name": "Sangan",
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 26236560,
@@ -4406,10 +4422,10 @@
     },
     {
       "id": 30271097,
-      "limit": 2,
+      "limit": 0,
       "macro": "Magia",
       "name": "The Fallen & The Virtuous",
-      "points": 21,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -4425,7 +4441,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Sangen Summoning",
-      "points": 70,
+      "points": 51,
       "source": "custom"
     },
     {
@@ -4794,14 +4810,6 @@
       "macro": "XYZ",
       "name": "Tellarknight Constellar Delteros",
       "points": 15,
-      "source": "custom"
-    },
-    {
-      "id": 32448765,
-      "limit": 3,
-      "macro": "Link",
-      "name": "Trickstar Holly Angel",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -5377,7 +5385,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Trickstar Light Stage",
-      "points": 5,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -5878,10 +5886,10 @@
     },
     {
       "id": 38811586,
-      "limit": 3,
+      "limit": 0,
       "macro": "Fusion",
       "name": "Albion the Sanctifire Dragon",
-      "points": 70,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -5998,10 +6006,10 @@
     },
     {
       "id": 39402797,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Trident Dragion",
-      "points": 20,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -6038,7 +6046,7 @@
     },
     {
       "id": 39931513,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Tenpai Dragon Paidra",
       "points": 7,
@@ -6353,7 +6361,7 @@
       "limit": 3,
       "macro": "Synchro",
       "name": "Elfnote Seraphim Strelitzia",
-      "points": 7,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -6790,10 +6798,10 @@
     },
     {
       "id": 45171524,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Mitsurugi Prayers",
-      "points": 21,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -7701,14 +7709,6 @@
       "source": "custom"
     },
     {
-      "id": 52296675,
-      "limit": 3,
-      "macro": "Pendulum",
-      "name": "Anchamoufrite",
-      "points": 1,
-      "source": "custom"
-    },
-    {
       "id": 52335937,
       "limit": 3,
       "macro": "Magia",
@@ -8321,7 +8321,7 @@
       "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Elfnote Regina",
-      "points": 33,
+      "points": 20,
       "source": "custom"
     },
     {
@@ -9033,7 +9033,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Trickstar Candina",
-      "points": 2,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -9510,10 +9510,10 @@
     },
     {
       "id": 64491754,
-      "limit": 2,
+      "limit": 3,
       "macro": "Magia",
       "name": "Elfnotes: Welcome Home",
-      "points": 5,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -9965,14 +9965,6 @@
       "source": "custom"
     },
     {
-      "id": 67378104,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Celestial Observatory",
-      "points": 5,
-      "source": "genesys"
-    },
-    {
       "id": 67441435,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -10194,6 +10186,14 @@
       "macro": "Mostro Effetto",
       "name": "Rokket Tracer",
       "points": 5,
+      "source": "custom"
+    },
+    {
+      "id": 68468459,
+      "limit": 1,
+      "macro": "Mostro Effetto",
+      "name": "Fallen of Albaz",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10486,10 +10486,10 @@
     },
     {
       "id": 70534340,
-      "limit": 3,
+      "limit": 1,
       "macro": "Fusion",
       "name": "Lubellion the Searing Dragon",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -11081,7 +11081,7 @@
       "limit": 3,
       "macro": "Synchro",
       "name": "The Three Champions of Swordsoul",
-      "points": 15,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -11326,11 +11326,11 @@
     },
     {
       "id": 76636978,
-      "limit": 3,
+      "limit": 0,
       "macro": "Synchro",
       "name": "Stardust Dragon - Victim Sanctuary",
-      "points": 3,
-      "source": "custom"
+      "points": 0,
+      "source": "blocco"
     },
     {
       "id": 76660178,
@@ -11342,10 +11342,10 @@
     },
     {
       "id": 76666602,
-      "limit": 1,
+      "limit": 3,
       "macro": "Fusion",
       "name": "The Dragon that Devours the Dogma",
-      "points": 7,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -11569,7 +11569,7 @@
       "limit": 3,
       "macro": "Synchro",
       "name": "Ecclesia and the Dark Dragon",
-      "points": 7,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -12609,7 +12609,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Dark Room of Nightmare",
-      "points": 12,
+      "points": 9,
       "source": "custom"
     },
     {
@@ -12617,8 +12617,8 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Last Will",
-      "points": 100,
-      "source": "genesys"
+      "points": 50,
+      "source": "custom"
     },
     {
       "id": 85668449,
@@ -12881,7 +12881,7 @@
       "limit": 3,
       "macro": "Fusion",
       "name": "Albion the Branded Dragon",
-      "points": 14,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -13366,10 +13366,10 @@
     },
     {
       "id": 91810826,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Tenpai Dragon Chundra",
-      "points": 33,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -13606,10 +13606,10 @@
     },
     {
       "id": 93053159,
-      "limit": 3,
+      "limit": 0,
       "macro": "Fusion",
       "name": "Alba System Dogmatikalamity",
-      "points": 80,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -14014,10 +14014,10 @@
     },
     {
       "id": 95515789,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Blazing Cartesia, the Virtuous",
-      "points": 12,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -15597,9 +15597,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-17T13:55:58Z",
-  "format_version": 35,
-  "generated_at": "2026-10-19T13:55:58Z",
+  "expires_at": "2027-04-18T12:49:01Z",
+  "format_version": 36,
+  "generated_at": "2026-10-20T12:49:01Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
