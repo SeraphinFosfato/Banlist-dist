@@ -1158,7 +1158,7 @@
     },
     {
       "id": 7511613,
-      "limit": 3,
+      "limit": 1,
       "macro": "XYZ",
       "name": "Ryzeal Duo Drive",
       "points": 25,
@@ -2965,6 +2965,14 @@
       "source": "custom"
     },
     {
+      "id": 20448151,
+      "limit": 2,
+      "macro": "Magia",
+      "name": "Clown Crew Rehearsal",
+      "points": 3,
+      "source": "custom"
+    },
+    {
       "id": 20508881,
       "limit": 3,
       "macro": "Magia",
@@ -3665,7 +3673,7 @@
       "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Rokket Loader",
-      "points": 5,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -3998,10 +4006,10 @@
     },
     {
       "id": 27548199,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Borreload Savage Dragon",
-      "points": 41,
+      "points": 25,
       "source": "custom"
     },
     {
@@ -4397,6 +4405,14 @@
       "source": "custom"
     },
     {
+      "id": 30109445,
+      "limit": 1,
+      "macro": "Link",
+      "name": "Clown Crew Dristy",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 30118811,
       "limit": 2,
       "macro": "Mostro Effetto",
@@ -4673,7 +4689,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Quick Launch",
-      "points": 12,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -4810,14 +4826,6 @@
       "macro": "XYZ",
       "name": "Tellarknight Constellar Delteros",
       "points": 15,
-      "source": "custom"
-    },
-    {
-      "id": 32476603,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Silverrokket Dragon",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -5273,7 +5281,7 @@
       "limit": 1,
       "macro": "XYZ",
       "name": "Ryzeal Detonator",
-      "points": 13,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -8009,7 +8017,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Squib Draw",
-      "points": 2,
+      "points": 4,
       "source": "custom"
     },
     {
@@ -8526,10 +8534,10 @@
     },
     {
       "id": 57847269,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Clown Crew Matinee Operatics",
-      "points": 18,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -10045,14 +10053,6 @@
       "source": "custom"
     },
     {
-      "id": 67748760,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Absorouter Dragon",
-      "points": 4,
-      "source": "custom"
-    },
-    {
       "id": 67768675,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -10182,10 +10182,10 @@
     },
     {
       "id": 68464358,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Rokket Tracer",
-      "points": 5,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -12161,7 +12161,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Clown Crew Biancaviso",
-      "points": 12,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -12262,10 +12262,10 @@
     },
     {
       "id": 83232904,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Clown Crew Malabarisme",
-      "points": 25,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -14409,7 +14409,7 @@
       "limit": 3,
       "macro": "Link",
       "name": "Borrelend Dragon",
-      "points": 33,
+      "points": 21,
       "source": "custom"
     },
     {
@@ -15597,9 +15597,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-18T12:49:01Z",
-  "format_version": 36,
-  "generated_at": "2026-10-20T12:49:01Z",
+  "expires_at": "2027-04-21T19:39:50Z",
+  "format_version": 37,
+  "generated_at": "2026-10-23T19:39:50Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
