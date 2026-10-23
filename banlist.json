@@ -902,11 +902,11 @@
     },
     {
       "id": 5990062,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Reversal Quiz",
-      "points": 100,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 5997110,
@@ -1574,10 +1574,10 @@
     },
     {
       "id": 10389142,
-      "limit": 3,
+      "limit": 0,
       "macro": "XYZ",
       "name": "Number 42: Galaxy Tomahawk",
-      "points": 33,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2262,11 +2262,11 @@
     },
     {
       "id": 15381421,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Starliege Seyfert",
-      "points": 33,
-      "source": "genesys"
+      "points": 9,
+      "source": "custom"
     },
     {
       "id": 15388353,
@@ -2953,7 +2953,7 @@
       "limit": 0,
       "macro": "Mostro Effetto",
       "name": "Artifact Scythe",
-      "points": 100,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -3670,10 +3670,10 @@
     },
     {
       "id": 25554552,
-      "limit": 2,
+      "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Rokket Loader",
-      "points": 7,
+      "points": 14,
       "source": "custom"
     },
     {
@@ -4318,10 +4318,10 @@
     },
     {
       "id": 29510428,
-      "limit": 3,
+      "limit": 0,
       "macro": "XYZ",
       "name": "Imperial Princess Quinquery",
-      "points": 77,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -4350,10 +4350,10 @@
     },
     {
       "id": 29876299,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Megalith Anastasis",
-      "points": 25,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -4686,10 +4686,10 @@
     },
     {
       "id": 31443476,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Quick Launch",
-      "points": 7,
+      "points": 9,
       "source": "custom"
     },
     {
@@ -4826,6 +4826,14 @@
       "macro": "XYZ",
       "name": "Tellarknight Constellar Delteros",
       "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 32476603,
+      "limit": 1,
+      "macro": "Mostro Effetto",
+      "name": "Silverrokket Dragon",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -6621,6 +6629,14 @@
       "source": "custom"
     },
     {
+      "id": 44097050,
+      "limit": 0,
+      "macro": "Link",
+      "name": "Mecha Phantom Beast Auroradon",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 44133040,
       "limit": 1,
       "macro": "Magia",
@@ -6899,6 +6915,14 @@
       "name": "Rank-Up-Magic Astral Force",
       "points": 1,
       "source": "genesys"
+    },
+    {
+      "id": 45951104,
+      "limit": 3,
+      "macro": "Magia",
+      "name": "Bot Herder",
+      "points": 4,
+      "source": "custom"
     },
     {
       "id": 45986603,
@@ -8502,10 +8526,10 @@
     },
     {
       "id": 57585212,
-      "limit": 3,
+      "limit": 1,
       "macro": "Trappola",
       "name": "Self-Destruct Button",
-      "points": 40,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -8782,10 +8806,10 @@
     },
     {
       "id": 59537380,
-      "limit": 3,
+      "limit": 0,
       "macro": "Link",
       "name": "Guardragon Agarpain",
-      "points": 100,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -8915,6 +8939,14 @@
       "name": "Dogmatika Ecclesia, the Virtuous",
       "points": 3,
       "source": "genesys"
+    },
+    {
+      "id": 60306277,
+      "limit": 1,
+      "macro": "Trappola",
+      "name": "Synchro Zone",
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 60411677,
@@ -10053,6 +10085,14 @@
       "source": "custom"
     },
     {
+      "id": 67748760,
+      "limit": 2,
+      "macro": "Mostro Effetto",
+      "name": "Absorouter Dragon",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 67768675,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -10245,14 +10285,6 @@
       "source": "custom"
     },
     {
-      "id": 69003792,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Megalith Unformed",
-      "points": 6,
-      "source": "custom"
-    },
-    {
       "id": 69015963,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -10442,6 +10474,14 @@
       "macro": "Magia",
       "name": "Ancient Gear Fortress",
       "points": 15,
+      "source": "custom"
+    },
+    {
+      "id": 70333910,
+      "limit": 2,
+      "macro": "Mostro Effetto",
+      "name": "Noctovision Dragon",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -11821,6 +11861,14 @@
       "source": "custom"
     },
     {
+      "id": 80237445,
+      "limit": 0,
+      "macro": "Mostro Effetto",
+      "name": "Artifact Mjollnir",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 80312545,
       "limit": 3,
       "macro": "Magia",
@@ -12282,6 +12330,14 @@
       "macro": "Magia",
       "name": "Ghost Meets Girl - A Mayakashi's Manuscript",
       "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 83319154,
+      "limit": 3,
+      "macro": "Trappola",
+      "name": "Annihilate Retroglight",
+      "points": 5,
       "source": "custom"
     },
     {
@@ -12842,6 +12898,14 @@
       "macro": "Trappola",
       "name": "Crystal Conclave",
       "points": 2,
+      "source": "custom"
+    },
+    {
+      "id": 87263576,
+      "limit": 1,
+      "macro": "Mostro Effetto",
+      "name": "Outburst Dragon",
+      "points": 3,
       "source": "custom"
     },
     {
@@ -13582,11 +13646,11 @@
     },
     {
       "id": 93016201,
-      "limit": 3,
+      "limit": 1,
       "macro": "Trappola",
       "name": "Royal Oppression",
-      "points": 100,
-      "source": "genesys"
+      "points": 15,
+      "source": "custom"
     },
     {
       "id": 93023136,
@@ -13950,10 +14014,10 @@
     },
     {
       "id": 95308449,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Final Countdown",
-      "points": 25,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -14254,10 +14318,10 @@
     },
     {
       "id": 97631303,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Magicians' Souls",
-      "points": 15,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -15597,9 +15661,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-21T19:39:50Z",
-  "format_version": 37,
-  "generated_at": "2026-10-23T19:39:50Z",
+  "expires_at": "2027-04-21T23:22:06Z",
+  "format_version": 38,
+  "generated_at": "2026-10-23T23:22:06Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
