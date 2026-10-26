@@ -3385,7 +3385,7 @@
       "limit": 2,
       "macro": "Magia",
       "name": "Synchro Chase",
-      "points": 5,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -15685,9 +15685,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-24T21:12:32Z",
-  "format_version": 42,
-  "generated_at": "2026-10-26T21:12:32Z",
+  "expires_at": "2027-04-24T21:16:43Z",
+  "format_version": 43,
+  "generated_at": "2026-10-26T21:16:43Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
