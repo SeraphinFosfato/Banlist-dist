@@ -238,10 +238,10 @@
     },
     {
       "id": 1475311,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Allure of Darkness",
-      "points": 12,
+      "points": 5,
       "source": "custom"
     },
     {
@@ -1454,10 +1454,10 @@
     },
     {
       "id": 9742784,
-      "limit": 2,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Jet Synchron",
-      "points": 7,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -2525,6 +2525,14 @@
       "source": "custom"
     },
     {
+      "id": 17201951,
+      "limit": 3,
+      "macro": "Mostro Effetto",
+      "name": "Full-Speed Warrior",
+      "points": 1,
+      "source": "custom"
+    },
+    {
       "id": 17209452,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -3078,11 +3086,11 @@
     },
     {
       "id": 21123811,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Cosmic Blazar Dragon",
-      "points": 21,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 21143940,
@@ -3370,6 +3378,14 @@
       "macro": "Mostro Effetto",
       "name": "Maxx \"C\"",
       "points": 70,
+      "source": "custom"
+    },
+    {
+      "id": 23442438,
+      "limit": 2,
+      "macro": "Magia",
+      "name": "Synchro Chase",
+      "points": 5,
       "source": "custom"
     },
     {
@@ -4590,10 +4606,10 @@
     },
     {
       "id": 30983281,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Accel Synchro Stardust Dragon",
-      "points": 25,
+      "points": 15,
       "source": "custom"
     },
     {
@@ -5702,10 +5718,10 @@
     },
     {
       "id": 37799519,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Stardust Synchron",
-      "points": 9,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -6161,7 +6177,7 @@
       "limit": 1,
       "macro": "Synchro",
       "name": "Shooting Majestic Star Dragon",
-      "points": 21,
+      "points": 18,
       "source": "custom"
     },
     {
@@ -6590,10 +6606,10 @@
     },
     {
       "id": 43834302,
-      "limit": 1,
+      "limit": 2,
       "macro": "Magia",
       "name": "Synchro Fellowship",
-      "points": 0,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -6714,14 +6730,6 @@
       "macro": "Mostro Effetto",
       "name": "Fire King Courtier Ulcanix",
       "points": 7,
-      "source": "custom"
-    },
-    {
-      "id": 44508094,
-      "limit": 3,
-      "macro": "Synchro",
-      "name": "Stardust Dragon",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -9414,10 +9422,10 @@
     },
     {
       "id": 63436931,
-      "limit": 3,
+      "limit": 1,
       "macro": "Synchro",
       "name": "Crimson Dragon",
-      "points": 41,
+      "points": 33,
       "source": "custom"
     },
     {
@@ -9633,7 +9641,7 @@
       "limit": 1,
       "macro": "Synchro",
       "name": "Stardust Charge Warrior",
-      "points": 3,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10902,10 +10910,10 @@
     },
     {
       "id": 73218792,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Junk Meister",
-      "points": 5,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -11457,7 +11465,7 @@
       "limit": 1,
       "macro": "Synchro",
       "name": "Junk Speeder",
-      "points": 33,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -13366,10 +13374,10 @@
     },
     {
       "id": 91215724,
-      "limit": 2,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Junk Armor",
-      "points": 4,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -14166,10 +14174,10 @@
     },
     {
       "id": 96363153,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Tuning",
-      "points": 7,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -15677,9 +15685,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-23T20:36:45Z",
-  "format_version": 40,
-  "generated_at": "2026-10-25T20:36:45Z",
+  "expires_at": "2027-04-24T13:54:59Z",
+  "format_version": 41,
+  "generated_at": "2026-10-26T13:54:59Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
