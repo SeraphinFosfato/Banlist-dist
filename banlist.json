@@ -4573,6 +4573,14 @@
       "source": "custom"
     },
     {
+      "id": 30698243,
+      "limit": 1,
+      "macro": "Synchro",
+      "name": "Red Hypernova Dragon",
+      "points": 15,
+      "source": "custom"
+    },
+    {
       "id": 30741334,
       "limit": 3,
       "macro": "XYZ",
@@ -11502,11 +11510,11 @@
     },
     {
       "id": 77202120,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Assault Synchron",
-      "points": 1,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 77207191,
@@ -14637,6 +14645,14 @@
       "source": "blocco"
     },
     {
+      "id": 99585850,
+      "limit": 1,
+      "macro": "Synchro",
+      "name": "Red Supernova Dragon",
+      "points": 5,
+      "source": "custom"
+    },
+    {
       "id": 99674361,
       "limit": 1,
       "macro": "Magia",
@@ -15693,9 +15709,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-25T09:57:20Z",
-  "format_version": 44,
-  "generated_at": "2026-10-27T09:57:20Z",
+  "expires_at": "2027-04-25T10:29:43Z",
+  "format_version": 45,
+  "generated_at": "2026-10-27T10:29:43Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
