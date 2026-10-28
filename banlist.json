@@ -21,6 +21,14 @@
       "source": "custom"
     },
     {
+      "id": 132308,
+      "limit": 2,
+      "macro": "Mostro Effetto",
+      "name": "Rikka Princess",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 269012,
       "limit": 3,
       "macro": "Magia",
@@ -3101,6 +3109,14 @@
       "source": "custom"
     },
     {
+      "id": 21200905,
+      "limit": 2,
+      "macro": "Link",
+      "name": "Aromaseraphy Jasmine",
+      "points": 0,
+      "source": "custom"
+    },
+    {
       "id": 21281085,
       "limit": 3,
       "macro": "Synchro",
@@ -3574,10 +3590,10 @@
     },
     {
       "id": 24689197,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Aromalilith Rosalina",
-      "points": 3,
+      "points": 2,
       "source": "custom"
     },
     {
@@ -4026,6 +4042,14 @@
       "macro": "Link",
       "name": "Charmer Quartet in Bloom",
       "points": 33,
+      "source": "custom"
+    },
+    {
+      "id": 27520594,
+      "limit": 1,
+      "macro": "Mostro Normale",
+      "name": "Sunseed Genius Loci",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10054,11 +10078,11 @@
     },
     {
       "id": 67441435,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Glow-Up Bulb",
-      "points": 15,
-      "source": "genesys"
+      "points": 10,
+      "source": "custom"
     },
     {
       "id": 67517351,
@@ -10737,7 +10761,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Rikka Petal",
-      "points": 3,
+      "points": 1,
       "source": "custom"
     },
     {
@@ -10953,7 +10977,7 @@
       "limit": 3,
       "macro": "Link",
       "name": "Benghalancer the Resurgent",
-      "points": 15,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -13822,10 +13846,10 @@
     },
     {
       "id": 93896655,
-      "limit": 3,
+      "limit": 1,
       "macro": "Link",
       "name": "Sunavalon Dryas",
-      "points": 5,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -15693,9 +15717,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-26T21:45:28Z",
-  "format_version": 46,
-  "generated_at": "2026-10-28T21:45:28Z",
+  "expires_at": "2027-04-26T23:12:55Z",
+  "format_version": 47,
+  "generated_at": "2026-10-28T23:12:55Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
