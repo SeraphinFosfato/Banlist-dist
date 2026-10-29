@@ -581,14 +581,6 @@
       "source": "custom"
     },
     {
-      "id": 3574681,
-      "limit": 1,
-      "macro": "Magia",
-      "name": "Golden Rule",
-      "points": 7,
-      "source": "custom"
-    },
-    {
       "id": 3594985,
       "limit": 3,
       "macro": "Pendulum",
@@ -1406,7 +1398,7 @@
     },
     {
       "id": 9334391,
-      "limit": 1,
+      "limit": 3,
       "macro": "Magia",
       "name": "Crystal Bond",
       "points": 3,
@@ -1669,14 +1661,6 @@
       "source": "genesys"
     },
     {
-      "id": 10938846,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Rainbow Bridge of the Heart",
-      "points": 1,
-      "source": "custom"
-    },
-    {
       "id": 10963799,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -1931,14 +1915,6 @@
       "name": "Iron Thunder",
       "points": 3,
       "source": "genesys"
-    },
-    {
-      "id": 12877076,
-      "limit": 2,
-      "macro": "Magia",
-      "name": "Awakening of the Crystal Ultimates",
-      "points": 0,
-      "source": "custom"
     },
     {
       "id": 12908094,
@@ -5619,14 +5595,6 @@
       "name": "Theorealize Past Lull",
       "points": 5,
       "source": "genesys"
-    },
-    {
-      "id": 36795102,
-      "limit": 2,
-      "macro": "Mostro Effetto",
-      "name": "Crystal Beast Rainbow Dragon",
-      "points": 2,
-      "source": "custom"
     },
     {
       "id": 36890111,
@@ -9557,14 +9525,6 @@
       "source": "custom"
     },
     {
-      "id": 63945693,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Rainbow Bridge",
-      "points": 1,
-      "source": "custom"
-    },
-    {
       "id": 64049762,
       "limit": 2,
       "macro": "Magia",
@@ -12957,14 +12917,6 @@
       "source": "custom"
     },
     {
-      "id": 87259933,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Crystal Conclave",
-      "points": 2,
-      "source": "custom"
-    },
-    {
       "id": 87263576,
       "limit": 1,
       "macro": "Mostro Effetto",
@@ -15733,9 +15685,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-27T12:55:01Z",
-  "format_version": 48,
-  "generated_at": "2026-10-29T12:55:01Z",
+  "expires_at": "2027-04-27T13:44:24Z",
+  "format_version": 49,
+  "generated_at": "2026-10-29T13:44:24Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
