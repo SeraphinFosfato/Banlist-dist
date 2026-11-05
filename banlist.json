@@ -2702,11 +2702,11 @@
     },
     {
       "id": 18294799,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Schwarzschild Infinity Dragon",
-      "points": 33,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 18313046,
@@ -13545,7 +13545,7 @@
       "limit": 3,
       "macro": "Synchro",
       "name": "Virtual World Kyubi - Shenshen",
-      "points": 21,
+      "points": 8,
       "source": "custom"
     },
     {
@@ -14281,7 +14281,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Planet Pathfinder",
-      "points": 10,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -15653,9 +15653,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-04-29T16:27:43Z",
-  "format_version": 50,
-  "generated_at": "2026-10-31T16:27:43Z",
+  "expires_at": "2027-05-04T23:07:20Z",
+  "format_version": 51,
+  "generated_at": "2026-11-05T23:07:20Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
