@@ -925,14 +925,6 @@
       "source": "custom"
     },
     {
-      "id": 6039967,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Fraulein",
-      "points": 3,
-      "source": "custom"
-    },
-    {
       "id": 6089145,
       "limit": 3,
       "macro": "Magia",
@@ -1099,14 +1091,6 @@
       "name": "Masquerade the Blazing Dragon",
       "points": 16,
       "source": "genesys"
-    },
-    {
-      "id": 6917479,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Red Baron",
-      "points": 3,
-      "source": "custom"
     },
     {
       "id": 7166709,
@@ -3245,14 +3229,6 @@
       "source": "genesys"
     },
     {
-      "id": 22900598,
-      "limit": 3,
-      "macro": "Trappola",
-      "name": "Vampire Takeover",
-      "points": 1,
-      "source": "custom"
-    },
-    {
       "id": 22908820,
       "limit": 3,
       "macro": "Fusion",
@@ -5187,14 +5163,6 @@
       "name": "Legendary Lord Six Samurai - Shi En",
       "points": 10,
       "source": "genesys"
-    },
-    {
-      "id": 34250214,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Familiar",
-      "points": 1,
-      "source": "custom"
     },
     {
       "id": 34267821,
@@ -10581,14 +10549,6 @@
       "source": "custom"
     },
     {
-      "id": 70645913,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Retainer",
-      "points": 2,
-      "source": "custom"
-    },
-    {
       "id": 70711847,
       "limit": 3,
       "macro": "Mostro Effetto",
@@ -11739,14 +11699,6 @@
       "name": "Tellarknight Lyran",
       "points": 5,
       "source": "genesys"
-    },
-    {
-      "id": 79523365,
-      "limit": 3,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Scarlet Scourge",
-      "points": 1,
-      "source": "custom"
     },
     {
       "id": 79559912,
@@ -13194,14 +13146,6 @@
       "macro": "Pendulum",
       "name": "Couplet the Melodious Songstress",
       "points": 6,
-      "source": "custom"
-    },
-    {
-      "id": 90299015,
-      "limit": 2,
-      "macro": "Mostro Effetto",
-      "name": "Vampire Ghost",
-      "points": 3,
       "source": "custom"
     },
     {
@@ -15653,9 +15597,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-05-04T23:07:20Z",
-  "format_version": 51,
-  "generated_at": "2026-11-05T23:07:20Z",
+  "expires_at": "2027-05-07T20:15:22Z",
+  "format_version": 52,
+  "generated_at": "2026-11-08T20:15:22Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
