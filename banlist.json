@@ -693,14 +693,6 @@
       "source": "custom"
     },
     {
-      "id": 4064925,
-      "limit": 3,
-      "macro": "Magia",
-      "name": "Ancient Gear Advance",
-      "points": 33,
-      "source": "genesys"
-    },
-    {
       "id": 4227096,
       "limit": 3,
       "macro": "Magia",
@@ -1769,7 +1761,7 @@
       "limit": 1,
       "macro": "Fusion",
       "name": "D/D/D Alfred the Divine Sage King",
-      "points": 8,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -4902,10 +4894,10 @@
     },
     {
       "id": 32762201,
-      "limit": 3,
+      "limit": 2,
       "macro": "Mostro Effetto",
       "name": "Ancient Gear Statue",
-      "points": 15,
+      "points": 10,
       "source": "custom"
     },
     {
@@ -5698,6 +5690,14 @@
       "macro": "Link",
       "name": "Trickstar Noble Angel",
       "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 37694547,
+      "limit": 3,
+      "macro": "Magia",
+      "name": "Geartown",
+      "points": 2,
       "source": "custom"
     },
     {
@@ -6634,6 +6634,14 @@
       "macro": "Ritual",
       "name": "Magician of Dark Chaos - Black Chaos",
       "points": 12,
+      "source": "custom"
+    },
+    {
+      "id": 44052074,
+      "limit": 2,
+      "macro": "Magia",
+      "name": "Ancient Gear Catapult",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -7666,6 +7674,14 @@
       "macro": "Magia",
       "name": "Heavenly Dragon Circle",
       "points": 7,
+      "source": "custom"
+    },
+    {
+      "id": 51788412,
+      "limit": 1,
+      "macro": "Fusion",
+      "name": "Chaos Ancient Gear Giant",
+      "points": 0,
       "source": "custom"
     },
     {
@@ -11137,7 +11153,7 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Laevatein, Generaider Boss of Shadows",
-      "points": 33,
+      "points": 20,
       "source": "custom"
     },
     {
@@ -12542,10 +12558,10 @@
     },
     {
       "id": 84797028,
-      "limit": 3,
+      "limit": 1,
       "macro": "Magia",
       "name": "Clockwork Night",
-      "points": 21,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -15613,9 +15629,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-05-12T19:47:38Z",
-  "format_version": 54,
-  "generated_at": "2026-11-13T19:47:38Z",
+  "expires_at": "2027-05-15T22:24:49Z",
+  "format_version": 55,
+  "generated_at": "2026-11-16T22:24:49Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
