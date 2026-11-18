@@ -3,20 +3,20 @@
     {
       "name": "edopro-custom-linux-x64.zip",
       "os": "linux",
-      "sha256": "29e1cbd3a21d5ce9d57c0b7f27b1ccfbe2464d53ed1f660049975fcb59c1d72e",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/edopro-custom-linux-x64.zip"
+      "sha256": "c03b4f7e88653e97064f7822b8b7c9b7d14a467ff33a45e65bf1d2cf391cf239",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/edopro-custom-linux-x64.zip"
     },
     {
       "name": "edopro-custom-windows-x86.zip",
       "os": "windows",
-      "sha256": "f7ca801784020d55ff1532754e005335b6144f20af0a560548677dafad9e1b42",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/edopro-custom-windows-x86.zip"
+      "sha256": "05c6ece62539f44815787457b181db80f426585abf798da11c8849d1407a8b31",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/edopro-custom-windows-x86.zip"
     },
     {
       "name": "fedelex-android.apk",
       "os": "android",
-      "sha256": "1d200b748cb3ce22de5e9126af3e46c6e84e72187f64b616759d2eb2dd7bdb00",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/fedelex-android.apk"
+      "sha256": "6d58b6aaaf014319debd7b4487cd4a364417e7d352b280d6992da8e0e94e1aa2",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/fedelex-android.apk"
     }
   ],
   "launcher_files": [
@@ -25,30 +25,30 @@
       "os": "linux",
       "role": "strings",
       "sha256": "5451e236c45b7fac63954f9320fc6a2b935ff40bb0aa5766255a01024edf7b6f",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/fedelex.conf"
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/fedelex.conf"
     },
     {
       "name": "fedelex.conf",
       "os": "windows",
       "role": "strings",
       "sha256": "5451e236c45b7fac63954f9320fc6a2b935ff40bb0aa5766255a01024edf7b6f",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/fedelex.conf"
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/fedelex.conf"
     },
     {
       "name": "ygoprodll",
       "os": "linux",
       "role": "simulator",
-      "sha256": "a941fc27d21ebe24fa303c655256b694028c68598d1969d6e1b53e7f89f8da20",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/ygoprodll"
+      "sha256": "bd388100a05ce5f56af76a318460c9ccbe7cfc0971acfd2fda1c39e4d96f5b11",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/ygoprodll"
     },
     {
       "name": "ygoprodll.exe",
       "os": "windows",
       "role": "simulator",
-      "sha256": "65f9b2c4fbb3ca7e68e90eae9c59c06f34095ea5bd322ee76b4be591b370ce79",
-      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.1-alpha/ygoprodll.exe"
+      "sha256": "2e21015cacb997c2a7bd11613a10aebcf3a546a735f113e2574dfca3b0db68c7",
+      "url": "https://github.com/SeraphinFosfato/edopro-genesys-fedelex/releases/download/v0.10.2-beta/ygoprodll.exe"
     }
   ],
-  "min_supported": 37,
-  "version": 38
+  "min_supported": 39,
+  "version": 39
 }
