@@ -2761,7 +2761,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Floowandereeze & Robina",
-      "points": 7,
+      "points": 3,
       "source": "custom"
     },
     {
@@ -4078,10 +4078,10 @@
     },
     {
       "id": 28126717,
-      "limit": 3,
+      "limit": 2,
       "macro": "Magia",
       "name": "Floowandereeze and the Magnificent Map",
-      "points": 18,
+      "points": 0,
       "source": "custom"
     },
     {
@@ -10337,7 +10337,7 @@
       "limit": 3,
       "macro": "Magia",
       "name": "Floowandereeze and the Advent of Adventure",
-      "points": 15,
+      "points": 7,
       "source": "custom"
     },
     {
@@ -11942,10 +11942,10 @@
     },
     {
       "id": 80611581,
-      "limit": 3,
+      "limit": 1,
       "macro": "Mostro Effetto",
       "name": "Floowandereeze & Empen",
-      "points": 25,
+      "points": 9,
       "source": "custom"
     },
     {
@@ -15629,9 +15629,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-05-15T22:24:49Z",
-  "format_version": 55,
-  "generated_at": "2026-11-16T22:24:49Z",
+  "expires_at": "2027-05-18T20:46:04Z",
+  "format_version": 56,
+  "generated_at": "2026-11-19T20:46:04Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
