@@ -3865,8 +3865,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Number F0: Utopic Draco Future",
-      "points": 25,
-      "source": "genesys"
+      "points": 20,
+      "source": "custom"
     },
     {
       "id": 26984177,
@@ -10449,7 +10449,7 @@
       "limit": 3,
       "macro": "Mostro Effetto",
       "name": "Astraltopia",
-      "points": 7,
+      "points": 2,
       "source": "custom"
     },
     {
@@ -12325,6 +12325,14 @@
       "source": "custom"
     },
     {
+      "id": 83274244,
+      "limit": 2,
+      "macro": "Mostro Effetto",
+      "name": "Dododo Warrior",
+      "points": 12,
+      "source": "custom"
+    },
+    {
       "id": 83319154,
       "limit": 3,
       "macro": "Trappola",
@@ -12681,8 +12689,8 @@
       "limit": 3,
       "macro": "XYZ",
       "name": "Primathmech Alembertian",
-      "points": 20,
-      "source": "genesys"
+      "points": 10,
+      "source": "custom"
     },
     {
       "id": 85747929,
@@ -13022,11 +13030,11 @@
     },
     {
       "id": 88917691,
-      "limit": 3,
+      "limit": 1,
       "macro": "XYZ",
       "name": "Gagagaga Girl",
-      "points": 15,
-      "source": "genesys"
+      "points": 0,
+      "source": "custom"
     },
     {
       "id": 89023486,
@@ -13950,10 +13958,10 @@
     },
     {
       "id": 95134948,
-      "limit": 3,
+      "limit": 1,
       "macro": "XYZ",
       "name": "Number 99: Utopia Dragonar",
-      "points": 33,
+      "points": 12,
       "source": "custom"
     },
     {
@@ -15629,9 +15637,9 @@
       "source": "blocco"
     }
   ],
-  "expires_at": "2027-05-18T20:46:04Z",
-  "format_version": 56,
-  "generated_at": "2026-11-19T20:46:04Z",
+  "expires_at": "2027-05-18T22:36:50Z",
+  "format_version": 57,
+  "generated_at": "2026-11-19T22:36:50Z",
   "license": "Point List \"Formato GSY CustomIgnis\"",
   "locked_after": "2026-08-31",
   "points_budget": 100
